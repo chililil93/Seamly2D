@@ -9,8 +9,8 @@ import os
 
 print 'Please, wait...'
 
-USERNAME='susan-spencer'
-PPA='seamly2d'
+USERNAME='chilil93'
+PPA='seamly-2020-fork'
 PACKAGE='seamly2d'
 
 print 'Connect to Service.'
