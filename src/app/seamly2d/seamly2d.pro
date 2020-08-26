@@ -9,6 +9,7 @@ message("Entering seamly2D.pro")
 
 # File with common stuff for whole project
 include(../../../common.pri)
+message("got common.pri")
 
 # Here we don't see "network" library, but, i think, "printsupport" depend on this library, so we still need this
 # library in installer.
