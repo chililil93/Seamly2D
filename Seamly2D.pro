@@ -35,6 +35,7 @@ unix {
                         CONFIG += g++4
                     } else {
                         message( "Seamly2D.pro: Unknown GCC configuration" )
+                        message GCC_VERSION
                     }
                 }
             }
