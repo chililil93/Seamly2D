@@ -1,11 +1,6 @@
 include(common.pri)
 
 message("Entering Seamly2D.pro")
-#Check if Qt version >= 5.12.0
-#!minQtVersion(5, 12, 0) {
-#    message("Seamly2D.pro: Cannot build Seamly2D with Qt version $${QT_VERSION}.")
-#    error("Use at least Qt 5.12.0.")
-#}
 
 #These checks need because we can quote all paths that contain space.
 
@@ -41,6 +36,5 @@ unix {
         }
     }
 }
-message GCC_VERSION
 TEMPLATE = subdirs
 SUBDIRS = src
