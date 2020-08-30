@@ -101,7 +101,7 @@ message("seamly2d.pro: Build revision:" $${DVCS_HESH})
 DEFINES += "BUILD_REVISION=$${DVCS_HESH}" # Make available build revision number in sources.
 
 # Some extra information about Qt. Can be usefull.
-QT_VERSION += '5.13.2'
+QT_VERSION += '5.14.2'
 message(seamly2d.pro: Qt version: $$[QT_VERSION])
 message(seamly2d.pro: Qt is installed in $$[QT_INSTALL_PREFIX])
 message(seamly2d.pro: Qt resources can be found in the following locations:)
