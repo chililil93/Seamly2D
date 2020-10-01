@@ -62,6 +62,7 @@
 #include "../vmisc/diagnostic.h"
 #include "../qmuparser/qmuparsererror.h"
 
+#include <Qt>
 #include <QDir>
 #include <QFileOpenEvent>
 #include <QLocalSocket>
@@ -189,6 +190,7 @@ inline void noisyFailureMsgHandler(QtMsgType type, const QMessageLogContext &con
         const bool topWinAllowsPop = (QApplication::activeModalWidget() == nullptr) ||
                 !QApplication::activeModalWidget()->inherits("QFileDialog");
         QMessageBox messageBox;
+
         switch (type)
         {
             case QtWarningMsg:
@@ -196,11 +198,11 @@ inline void noisyFailureMsgHandler(QtMsgType type, const QMessageLogContext &con
                 messageBox.setIcon(QMessageBox::Warning);
                 break;
             case QtCriticalMsg:
-                messageBox.setWindowTitle(QApplication::translate("mNoisyHandler", "Critical error"));
+                messageBox.setWindowTitle(QApplication::translate("mNoisyHandler", "Critical Error"));
                 messageBox.setIcon(QMessageBox::Critical);
                 break;
             case QtFatalMsg:
-                messageBox.setWindowTitle(QApplication::translate("mNoisyHandler", "Fatal error"));
+                messageBox.setWindowTitle(QApplication::translate("mNoisyHandler", "Fatal Error"));
                 messageBox.setIcon(QMessageBox::Critical);
                 break;
             #if QT_VERSION > QT_VERSION_CHECK(5, 4, 2)
@@ -229,6 +231,7 @@ inline void noisyFailureMsgHandler(QtMsgType type, const QMessageLogContext &con
                 #ifndef QT_NO_CURSOR
                     QGuiApplication::setOverrideCursor(Qt::ArrowCursor);
                 #endif
+                    messageBox.setWindowFlags(messageBox.windowFlags() & ~Qt::WindowContextHelpButtonHint);
                     messageBox.exec();
                 #ifndef QT_NO_CURSOR
                     QGuiApplication::restoreOverrideCursor();
@@ -260,7 +263,7 @@ MApplication::MApplication(int &argc, char **argv)
       dataBase(QPointer<MeasurementDatabaseDialog>()),
       testMode(false)
 {
-    setApplicationDisplayName(VER_PRODUCTNAME_STR);
+    //setApplicationDisplayName(VER_PRODUCTNAME_STR);
     setApplicationName(VER_INTERNALNAME_STR);
     setOrganizationName(VER_COMPANYNAME_STR);
     setOrganizationDomain(VER_COMPANYDOMAIN_STR);
