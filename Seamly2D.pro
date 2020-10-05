@@ -29,7 +29,8 @@ unix {
                         message( "Seamly2D.pro: g++ version 4.x found" )
                         CONFIG += g++4
                     } else {
-                        message( "Seamly2D.pro: Unknown GCC configuration" )
+                        message( "Seamly2D.pro: Unknown GCC configuration forced 4.x" )                        
+                        CONFIG += g++4
                     }
                 }
             }
