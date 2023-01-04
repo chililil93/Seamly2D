@@ -1,10 +1,14 @@
 ![Seamly Banner](https://github.com/FashionFreedom/Seamly2D/blob/develop/share/img/Seamly2D_banner_700x200.png)
 # Seamly2D
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/fashionfreedom/seamly2d?logo=github?color=blue&include_prereleases&style=flat-square&logo=github)   
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/fashionfreedom/seamly2d/Build%20weekly%20release?style=flat-square&logo=github)  ![Travis (.org) branch](https://img.shields.io/travis/fashionfreedom/seamly2d/develop?label=travis-ci&style=flat-square&logo=travisci)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/fashionfreedom/seamly2d?logo=github&color=brightgreen&style=flat-square)  ![GitHub contributors](https://img.shields.io/github/contributors/fashionfreedom/seamly2d?style=flat-square&logo=github)  
-![GitHub](https://img.shields.io/github/license/fashionfreedom/seamly2d?color=blue&style=flat-square&logo=creativecommons)  ![GitHub language count](https://img.shields.io/github/languages/count/fashionfreedom/seamly2d?style=flat-square&logo=github)  
-![Website](https://img.shields.io/website?down_message=Down&style=flat-square&up_color=brightgreen&up_message=Up&url=https%3A%2F%2Fseamly.net&logo=wordpress)   ![Discourse posts](https://img.shields.io/discourse/posts?server=https%3A%2F%2Fforum.seamly.net&style=flat-square&logo=discourse)      
-![Qt](https://github.com/FashionFreedom/Seamly2D/blob/develop/.github/img/Built_with_Qt_RGB_logo_vertical_transparent_60x65px.png)
+[![GitHub release (latest)](https://img.shields.io/github/v/release/fashionfreedom/seamly2d?logo=github?color=blue&style=flat-square)](https://github.com/FashionFreedom/Seamly2D/releases/latest)
+[![GitHub weekly build](https://img.shields.io/github/actions/workflow/status/fashionfreedom/seamly2d/build-auto-release-on-cron.yml?logo=github&style=flat-square)](https://github.com/FashionFreedom/Seamly2D/actions/workflows/build-auto-release-on-cron.yml)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/fashionfreedom/seamly2d?logo=github&color=brightgreen&style=flat-square)](https://github.com/FashionFreedom/Seamly2D/graphs/commit-activity)
+[![GitHub contributors](https://img.shields.io/github/contributors/fashionfreedom/seamly2d?style=flat-square&logo=github)](https://github.com/FashionFreedom/Seamly2D/graphs/contributors)
+[![GitHub](https://img.shields.io/github/license/fashionfreedom/seamly2d?color=blue&style=flat-square&logo=creativecommons)](../LICENSE)
+![GitHub language count](https://img.shields.io/github/languages/count/fashionfreedom/seamly2d?style=flat-square&logo=github)  
+[![Website](https://img.shields.io/website?down_message=Down&style=flat-square&up_color=brightgreen&up_message=Up&url=https%3A%2F%2Fseamly.net&logo=wordpress)](https://seamly.net/)
+[![Forum posts](https://img.shields.io/discourse/posts?server=https%3A%2F%2Fforum.seamly.net&style=flat-square&logo=discourse)](https://forum.seamly.net/)   
+[![Qt](https://github.com/FashionFreedom/Seamly2D/blob/develop/.github/img/Built_with_Qt_RGB_logo_vertical_transparent_60x65px.png)](https://qt.io)
 
 Seamly2D is pattern design software to create reusable, scalable, sharable custom-fit patterns using bespoke tailoring, haute couture, and historical pattern drafting techniques. Seamly2D saves time and improves fit by creating patterns that are reusable parametric CAD engineering documents.
 
@@ -13,12 +17,16 @@ Unlike other pattern design software, Seamly2D allows designers to have complete
 Seamly2D is open source software released under the GPLv3+ license.  Seamly2D is available for Windows, MacOS, and Linux.  Learn more about Seamly2D by joining our active, friendly community at https://forum.seamly.net
 
 ## Supported platforms:  
-   * Windows 10 (64-bit)
+   * Windows 10 & 11 (64-bit)
    * Most current Linux distros via [Flathub](https://flathub.org/apps/details/net.seamly.seamly2d)
    * Mac OS X 10.8 (64-bit) or later
 
-## Download Seamly2D
-Download from our Releases page [here:](https://github.com/fashionfreedom/seamly2d/releases/latest)
+## Download Seamly2D:
+
+| Windows | macOS | Linux |
+| ---     | ---   | ---   |
+| [Seamly2D-windows.zip](https://github.com/FashionFreedom/Seamly2D/releases/latest/download/Seamly2D-windows.zip) | [Seamly2D-macos.zip](https://github.com/FashionFreedom/Seamly2D/releases/latest/download/Seamly2D-macos.zip) | [<img src="https://flathub.org/assets/badges/flathub-badge-en.svg" alt="Download On Flathub" height="60">](https://github.com/flathub/net.seamly.seamly2d) |
+
 ___________________________________________________
 ## Seamly2D Community Resources:
    * [Website and downloads](https://seamly.net)  
@@ -41,49 +49,37 @@ Development methods and styles:
    * Github issue description style guide: https://guides.github.com/features/issues/
 
 Build method:
-   * Building with Qt: https://forum.seamly.net/t/how-to-build-with-qt/1833
    * Read more about code styles, issues, and other developer items of interest here: https://github.com/FashionFreedom/Seamly2D/wiki
 ___________________________________________________
 ## Install Additional Libraries and Programs:
 
-### to build Seamly code on Linux (general)
+### to build Seamly code on Linux
+
+These instructions apply in general, with Ubuntu 22.04 as example:
+
 * Install QtCreator for your distribution: https://wiki.qt.io/VendorPackages.
-* For Linux in general, these additional tools and libraries may be required:
-- gnu compiler
-- poppler (pdftops)
-- OpenGL libraries
-- XMLpatterns:  https://command-not-found.com/xmlpatterns
-* All Qt-tools come as qmake-qt5, etc. If you build from command line instead of within Qt Creator, run the following prior to running *qmake-qt5*:
+* For Linux in general, these additional tools and libraries are required:
+  - gnu compiler
+  - poppler (pdftops)
+  - OpenGL libraries
+* Install Qt 5.15
+  - Example for Ubuntu 22.04: Install the following packages to have Qt5 build environment ready:
 ```
-    export QT_SELECT=5
+  sudo apt install -y libfuse2 build-essential git qt5-qmake qtbase5-dev libqt5xmlpatterns5-dev libqt5svg5-dev qttools5-dev-tools
+```
+* Build and install:  
+```
+    qmake Seamly2D.pro CONFIG+=noDebugSymbols CONFIG+=no_ccache
+    make -j$(nproc)
+    sudo make install
 ```
 * The default prefix for command `make install` is `/usr`. For using another prefix build with qmake command:  
 ```
-    qmake PREFIX=/usr/local PREFIX_LIB=/usr/lib/i386-linux-gnu Seamly2D.pro -r CONFIG+=noDebugSymbols CONFIG+=no_ccache
+    qmake PREFIX=/usr/local PREFIX_LIB=/usr/lib/i386-linux-gnu Seamly2D.pro CONFIG+=noDebugSymbols CONFIG+=no_ccache
 ```
 where `/usr/local` is a new prefix for installation binary files and `/usr/lib/i386-linux-gnu` is new prefix for install libraries.
-Add path to Qt using `.bashrc`
 
-#### Ubuntu
-* If Qt is not completely installed on your distribution, follow instructions here https://wiki.qt.io/Install_Qt_5_on_Ubuntu#Install_Qt_5_on_Ubuntu
-* Install the following additional packages:
-```
-  sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test     
-  sudo apt-get -qq update  
-  sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-7 60 --slave /usr/bin/g++ g++ /usr/bin/g++-7  
-  sudo apt-get install -y build-essential mesa-utils mesa-common-dev libgl1-mesa-dev  
-  sudo apt-get install -y poppler-utils  
-  sudo apt-get install -y xvfb  
-  sudo apt-get install -y libfontconfig1-dev libfreetype6-dev  
-  sudo apt-get install -y libx11-devlibxext-dev libxfixes-dev libxi-dev  
-  sudo apt-get install -y libxrender-dev libxcb1-dev libx11-xcb-dev libxcb-glx0-dev
-  sudo apt-get install -y libqt5xmlpatterns5-dev
-```
-* Manually retrieve and install `ccache`
-```
-wget https://launchpad.net/ubuntu/+archive/primary/+files/ccache_3.7.7-1_amd64.deb.html
-sudo dpkg -i ccache_3.7.7-1_amd64.deb.html
-```
+In doubt check how the github action CI [does it](workflows/build-auto-release-on-cron.yml).
 
 ### MAC OSX
 * Download Xcode 11 - https://developer.apple.com/download/all/
@@ -105,12 +101,11 @@ ___________________________________________________
 ## Additional Information about Qt
 
 * Add Seamly2d, gcc, g++, xpdf, and QtCreator directories to your operating system's `PATH` environment variable via Linux `.bashrc` or Windows' Control Panel.(example: for Windows add  `c:\Qt\%VERSION%\bin`)
-* Use *QtChooser* to update and set the latest QT version as default.
 * In *QtCreator* create your compiler kit (eg MSVC 2019, g++, gdb) and assign the compiler kit to your project. This automatically defines your Qt variables for compilers, debuggers, etc.
-* Build Seamly2D from within *QtCreator* (see [forum post](https://forum.seamly.net/t/how-to-build-with-qt/183)) **OR** from command line using Qt's *qmake-qtx* from a terminal window:
+* Build Seamly2D from within *QtCreator* (see [forum post](https://forum.seamly.net/t/how-to-build-with-qt/183)) **OR** from command line using Qt's *qmake* from a terminal window:
 ```
 cd $SOURCE_DIRECTORY\build
-qmake ..\Seamly2D.pro -r CONFIG+=noDebugSymbols CONFIG+=no_ccache
+qmake ..\Seamly2D.pro CONFIG+=noDebugSymbols CONFIG+=no_ccache
 make (or nmake or jom, depending on your platform)
 ```
 ___________________________________________________
