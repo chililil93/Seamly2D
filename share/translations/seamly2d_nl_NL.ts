@@ -605,7 +605,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point at distance along line</source>
-        <translation>Punt op afstand langs lijn</translation>
+        <translation type="vanished">Punt op afstand langs lijn</translation>
     </message>
     <message>
         <source>Line color</source>
@@ -633,7 +633,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>First point:</source>
@@ -661,11 +661,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>Linetype:</source>
@@ -675,12 +675,44 @@ p, li { white-space: pre-wrap; }
         <source>Color:</source>
         <translation>Kleur:</translation>
     </message>
+    <message>
+        <source>Point - On Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
+    </message>
 </context>
 <context>
     <name>DialogArc</name>
     <message>
         <source>Arc</source>
-        <translation>Boog</translation>
+        <translation type="vanished">Boog</translation>
     </message>
     <message>
         <source>Radius</source>
@@ -795,20 +827,40 @@ p, li { white-space: pre-wrap; }
         <translation>Lijnsoort:</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;First Angle Calculation&lt;/span&gt;&lt;br/&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+        <source>Arc - Radius and Angles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;First Angle Calculation&lt;/span&gt;&lt;br/&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation..png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation..png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
     </message>
 </context>
 <context>
     <name>DialogArcWithLength</name>
     <message>
         <source>Dialog</source>
-        <translation>Dialoog</translation>
+        <translation type="vanished">Dialoog</translation>
     </message>
     <message>
         <source>Radius</source>
@@ -915,9 +967,29 @@ p, li { white-space: pre-wrap; }
         <translation>Lijnsoort:</translation>
     </message>
     <message>
+        <source>Arc - Radius and Length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
+    </message>
+    <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation..png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
     </message>
 </context>
 <context>
@@ -980,7 +1052,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point along bisector</source>
-        <translation>Punt langs bisector</translation>
+        <translation type="vanished">Punt langs bisector</translation>
     </message>
     <message>
         <source>Line color</source>
@@ -1008,15 +1080,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>First point:</source>
@@ -1045,6 +1117,38 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Color:</source>
         <translation>Kleur:</translation>
+    </message>
+    <message>
+        <source>Point - On Bisector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
     </message>
 </context>
 <context>
@@ -1095,7 +1199,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tool cubic bezier</source>
-        <translation>Kubisachtige bezier gereedschap</translation>
+        <translation type="vanished">Kubisachtige bezier gereedschap</translation>
     </message>
     <message>
         <source>Pen Style:</source>
@@ -1104,6 +1208,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Linetype:</source>
         <translation>Lijnsoort:</translation>
+    </message>
+    <message>
+        <source>Curve - Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
     </message>
 </context>
 <context>
@@ -1134,7 +1254,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tool cubic bezier path</source>
-        <translation>Kubisachtige bezier gereedschaps pad</translation>
+        <translation type="vanished">Kubisachtige bezier gereedschaps pad</translation>
     </message>
     <message>
         <source>Pen style:</source>
@@ -1143,6 +1263,26 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Linetype:</source>
         <translation>Lijnsoort:</translation>
+    </message>
+    <message>
+        <source>Spline - Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished">Pad:</translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
     </message>
 </context>
 <context>
@@ -1185,7 +1325,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point intersect curve and axis</source>
-        <translation>Snijpunt kromme en as</translation>
+        <translation type="vanished">Snijpunt kromme en as</translation>
     </message>
     <message>
         <source>Axis Point</source>
@@ -1225,15 +1365,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>Type of line:</source>
@@ -1252,9 +1392,41 @@ p, li { white-space: pre-wrap; }
         <translation>Kleur:</translation>
     </message>
     <message>
+        <source>Intersect - Curve and Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
+    </message>
+    <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation..png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
     </message>
 </context>
 <context>
@@ -1281,7 +1453,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Segment an arc</source>
-        <translation>Opsplitsen van een boog</translation>
+        <translation type="vanished">Opsplitsen van een boog</translation>
     </message>
     <message>
         <source>Selected arc</source>
@@ -1317,19 +1489,43 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>Color:</source>
         <translation type="vanished">Kleur:</translation>
+    </message>
+    <message>
+        <source>Point - On Arc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
     </message>
 </context>
 <context>
@@ -1360,7 +1556,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Segmenting a simple curve</source>
-        <translation>Opsplitsing van een simpele kromme</translation>
+        <translation type="vanished">Opsplitsing van een simpele kromme</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1392,19 +1588,43 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>Color:</source>
         <translation type="vanished">Kleur:</translation>
+    </message>
+    <message>
+        <source>Point - On Curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
     </message>
 </context>
 <context>
@@ -1435,7 +1655,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Segment a curved path</source>
-        <translation>Opsplitsing van een krommepad</translation>
+        <translation type="vanished">Opsplitsing van een krommepad</translation>
     </message>
     <message>
         <source>Color</source>
@@ -1467,19 +1687,43 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>Color:</source>
         <translation type="vanished">Kleur:</translation>
+    </message>
+    <message>
+        <source>Point - On Spline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
     </message>
 </context>
 <context>
@@ -2090,7 +2334,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Elliptical arc</source>
-        <translation>Ellipsvormige boog</translation>
+        <translation type="vanished">Ellipsvormige boog</translation>
     </message>
     <message>
         <source>Pen style:</source>
@@ -2101,16 +2345,36 @@ p, li { white-space: pre-wrap; }
         <translation>Lijn_soort:</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;First Angle Calculation&lt;/span&gt;&lt;br/&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+        <source>Arc - Elliptical</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Second Angle Calculation&lt;/span&gt;&lt;br/&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Rotation Angle Calculation&lt;/span&gt;&lt;br/&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;First Angle Calculation&lt;/span&gt;&lt;br/&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation..png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Second Angle Calculation&lt;/span&gt;&lt;br/&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation..png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Rotation Angle Calculation&lt;/span&gt;&lt;br/&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation..png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2157,7 +2421,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point at distance and angle</source>
-        <translation>Punt op afstand en hoek</translation>
+        <translation type="vanished">Punt op afstand en hoek</translation>
     </message>
     <message>
         <source>Line color</source>
@@ -2197,15 +2461,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>Type of line:</source>
@@ -2224,9 +2488,41 @@ p, li { white-space: pre-wrap; }
         <translation>Kleur:</translation>
     </message>
     <message>
+        <source>Point - Length and Angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
+    </message>
+    <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation..png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
     </message>
 </context>
 <context>
@@ -2405,7 +2701,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Perpendicular point along line</source>
-        <translation>Haakse hoek punt langs lijn</translation>
+        <translation type="vanished">Haakse hoek punt langs lijn</translation>
     </message>
     <message>
         <source>Base Point</source>
@@ -2417,15 +2713,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>Base point:</source>
@@ -2433,11 +2729,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>First point of line:</source>
-        <translation>Eerste punt van de lijn:</translation>
+        <translation type="vanished">Eerste punt van de lijn:</translation>
     </message>
     <message>
         <source>Second point of line:</source>
-        <translation>Tweede punt van de lijn:</translation>
+        <translation type="vanished">Tweede punt van de lijn:</translation>
     </message>
     <message>
         <source>Type of line:</source>
@@ -2455,16 +2751,52 @@ p, li { white-space: pre-wrap; }
         <source>Color:</source>
         <translation>Kleur:</translation>
     </message>
+    <message>
+        <source>Point - Intersect Line and Perpendicular</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First point:</source>
+        <translation type="unfinished">Eerste punt:</translation>
+    </message>
+    <message>
+        <source>Second point:</source>
+        <translation type="unfinished">Tweede punt:</translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
+    </message>
 </context>
 <context>
     <name>DialogHistory</name>
     <message>
         <source>History</source>
-        <translation>Geschiedenis</translation>
+        <translation type="vanished">Geschiedenis</translation>
     </message>
     <message>
         <source>Tool</source>
-        <translation>Gereedschap</translation>
+        <translation type="vanished">Gereedschap</translation>
     </message>
     <message>
         <source>Can&apos;t create record.</source>
@@ -2472,31 +2804,31 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>%1 - Base point</source>
-        <translation>%1 - Basis punt</translation>
+        <translation type="vanished">%1 - Basis punt</translation>
     </message>
     <message>
         <source>%1_%2 - Line from point %1 to point %2</source>
-        <translation>%1_%2 - Lijn van punt %1 naar punt %2</translation>
+        <translation type="vanished">%1_%2 - Lijn van punt %1 naar punt %2</translation>
     </message>
     <message>
         <source>%3 - Point along line %1_%2</source>
-        <translation>%3 - Punt langs lijn %1_%2</translation>
+        <translation type="vanished">%3 - Punt langs lijn %1_%2</translation>
     </message>
     <message>
         <source>%1 - Point of shoulder</source>
-        <translation>%1 - Schouderpunt</translation>
+        <translation type="vanished">%1 - Schouderpunt</translation>
     </message>
     <message>
         <source>%3 - normal to line %1_%2</source>
-        <translation>%3 - normaal naar lijn %1_%2</translation>
+        <translation type="vanished">%3 - normaal naar lijn %1_%2</translation>
     </message>
     <message>
         <source>%4 - bisector of angle %1_%2_%3</source>
-        <translation>%4 - bisector van hoek%1_%2_%3</translation>
+        <translation type="vanished">%4 - bisector van hoek%1_%2_%3</translation>
     </message>
     <message>
         <source>%5 - intersection of lines %1_%2 and %3_%4</source>
-        <translation>%5 - kruispunt van lijnen %1_%2 en %3_%4</translation>
+        <translation type="vanished">%5 - kruispunt van lijnen %1_%2 en %3_%4</translation>
     </message>
     <message>
         <source>Curve %1_%2</source>
@@ -2512,19 +2844,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>%4 - point of contact of arc with the center in point %1 and line %2_%3</source>
-        <translation>%4 - contactpunt van boog met het midden in punt %1 en lijn %2_%3</translation>
+        <translation type="vanished">%4 - contactpunt van boog met het midden in punt %1 en lijn %2_%3</translation>
     </message>
     <message>
         <source>Point of perpendicular from point %1 to line %2_%3</source>
-        <translation>Haakse hoek punt vanaf punt %1 naar lijn %2_%3</translation>
+        <translation type="vanished">Haakse hoek punt vanaf punt %1 naar lijn %2_%3</translation>
     </message>
     <message>
         <source>Triangle: axis %1_%2, points %3 and %4</source>
-        <translation>Driehoek: As %1_%2, naar punten %3 en %4</translation>
+        <translation type="vanished">Driehoek: As %1_%2, naar punten %3 en %4</translation>
     </message>
     <message>
         <source>%1 - point of intersection %2 and %3</source>
-        <translation>%1 - kruispunt %2 en %3</translation>
+        <translation type="vanished">%1 - kruispunt %2 en %3</translation>
     </message>
     <message>
         <source>%1 - cut arc with center %2</source>
@@ -2540,11 +2872,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>%1 - point of intersection line %2_%3 and axis through point %4</source>
-        <translation>%1 - kruispunt op lijn %2_%3 en as via punt %4</translation>
+        <translation type="vanished">%1 - kruispunt op lijn %2_%3 en as via punt %4</translation>
     </message>
     <message>
         <source>%1 - point of intersection curve and axis through point %2</source>
-        <translation>%1 - kruispunt van kromme en as via punt %2</translation>
+        <translation type="vanished">%1 - kruispunt van kromme en as via punt %2</translation>
     </message>
     <message>
         <source>Arc with center in point %1 and length %2</source>
@@ -2552,95 +2884,95 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>%1 - point of arcs intersection</source>
-        <translation>%1 - kruispunt van bogen</translation>
+        <translation type="vanished">%1 - kruispunt van bogen</translation>
     </message>
     <message>
         <source>%1 - point of circles intersection</source>
-        <translation>%1 - kruispunt van cirkels</translation>
+        <translation type="vanished">%1 - kruispunt van cirkels</translation>
     </message>
     <message>
         <source>%1 - point from circle and tangent</source>
-        <translation>%1 - kruispunt van cirkel en raaklijn</translation>
+        <translation type="vanished">%1 - kruispunt van cirkel en raaklijn</translation>
     </message>
     <message>
         <source>%1 - point from arc and tangent</source>
-        <translation>%1 - kruispunt van boog en raaklijn</translation>
+        <translation type="vanished">%1 - kruispunt van boog en raaklijn</translation>
     </message>
     <message>
         <source>Correction the dart %1_%2_%3</source>
-        <translation>Correctie van de figuurnaad %1_%2_%3</translation>
+        <translation type="vanished">Correctie van de figuurnaad %1_%2_%3</translation>
     </message>
     <message>
         <source>%1 - point of curves intersection</source>
-        <translation>%1 - kruispunt van krommes</translation>
+        <translation type="vanished">%1 - kruispunt van krommes</translation>
     </message>
     <message>
         <source>Curve</source>
-        <translation>Kromme</translation>
+        <translation type="vanished">Kromme</translation>
     </message>
     <message>
         <source>Cubic bezier curve</source>
-        <translation>Derdegraads bezier kromme</translation>
+        <translation type="vanished">Derdegraads bezier kromme</translation>
     </message>
     <message>
         <source>Arc</source>
-        <translation>Boog</translation>
+        <translation type="vanished">Boog</translation>
     </message>
     <message>
         <source>%1 with length %2</source>
-        <translation>%1 met lengte %2</translation>
+        <translation type="vanished">%1 met lengte %2</translation>
     </message>
     <message>
         <source>Spline path</source>
-        <translation>Splinepad</translation>
+        <translation type="vanished">Splinepad</translation>
     </message>
     <message>
         <source>Cubic bezier curve path</source>
-        <translation>Pad van derdegraads bezier kromme</translation>
+        <translation type="vanished">Pad van derdegraads bezier kromme</translation>
     </message>
     <message>
         <source>%1 - cut %2</source>
-        <translation>%1 - knipt %2</translation>
+        <translation type="vanished">%1 - knipt %2</translation>
     </message>
     <message>
         <source>arc</source>
-        <translation>boog</translation>
+        <translation type="vanished">boog</translation>
     </message>
     <message>
         <source>curve</source>
-        <translation>kromme</translation>
+        <translation type="vanished">kromme</translation>
     </message>
     <message>
         <source>curve path</source>
-        <translation>kromme pad</translation>
+        <translation type="vanished">kromme pad</translation>
     </message>
     <message>
         <source>Elliptical arc</source>
-        <translation>Ellipsvormige boog</translation>
+        <translation type="vanished">Ellipsvormige boog</translation>
     </message>
     <message>
         <source>Find:</source>
-        <translation>Vind:</translation>
+        <translation type="vanished">Vind:</translation>
     </message>
     <message>
         <source>Search text</source>
-        <translation>Zoek tekst</translation>
+        <translation type="vanished">Zoek tekst</translation>
     </message>
     <message>
         <source>Rotate objects around point %1. Suffix &apos;%2&apos;</source>
-        <translation>Roteer objecten rond punt %1. Suffix &apos;%2&apos;</translation>
+        <translation type="vanished">Roteer objecten rond punt %1. Suffix &apos;%2&apos;</translation>
     </message>
     <message>
         <source>Mirror by line %1_%2. Suffix &apos;%3&apos;</source>
-        <translation>Spiegel over lijn %1_%2. Suffix &apos;%3&apos;</translation>
+        <translation type="vanished">Spiegel over lijn %1_%2. Suffix &apos;%3&apos;</translation>
     </message>
     <message>
         <source>Mirror by axis through %1 point. Suffix &apos;%2&apos;</source>
-        <translation>Spiegel over as door %1 punt. Suffix &apos;%2&apos;</translation>
+        <translation type="vanished">Spiegel over as door %1 punt. Suffix &apos;%2&apos;</translation>
     </message>
     <message>
         <source>Move objects, rotate around point %1. Suffix &apos;%2&apos;</source>
-        <translation>Verplaats objecten, roteer rond punt %1. Suffix &apos;%2&apos;</translation>
+        <translation type="vanished">Verplaats objecten, roteer rond punt %1. Suffix &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -3435,7 +3767,7 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Line between points</source>
-        <translation>Lijn tussen punten</translation>
+        <translation type="vanished">Lijn tussen punten</translation>
     </message>
     <message>
         <source>Line color</source>
@@ -3464,6 +3796,22 @@ Apply settings anyway?</source>
     <message>
         <source>Color:</source>
         <translation>Kleur:</translation>
+    </message>
+    <message>
+        <source>Line - Between Points</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
     </message>
 </context>
 <context>
@@ -3502,19 +3850,19 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Point at line intersection</source>
-        <translation>Punt op lijnkruising</translation>
+        <translation type="vanished">Punt op lijnkruising</translation>
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>First point:</source>
@@ -3523,6 +3871,26 @@ Apply settings anyway?</source>
     <message>
         <source>Second point:</source>
         <translation>Tweede punt:</translation>
+    </message>
+    <message>
+        <source>Point - Intersect Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3565,7 +3933,7 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Show line from first point to this point</source>
-        <translation>Toon lijn vanaf het eerste punt naar dit punt</translation>
+        <translation type="vanished">Toon lijn vanaf het eerste punt naar dit punt</translation>
     </message>
     <message>
         <source>Select second point of line</source>
@@ -3577,7 +3945,7 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Point intersect line and axis</source>
-        <translation>Punt kruist lijn en as</translation>
+        <translation type="vanished">Punt kruist lijn en as</translation>
     </message>
     <message>
         <source>Axis Point</source>
@@ -3617,23 +3985,23 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>First line point:</source>
-        <translation>Eerste lijnpunt:</translation>
+        <translation type="vanished">Eerste lijnpunt:</translation>
     </message>
     <message>
         <source>Second line point:</source>
-        <translation>Tweede lijnpunt:</translation>
+        <translation type="vanished">Tweede lijnpunt:</translation>
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>Type of line:</source>
@@ -3652,9 +4020,49 @@ Apply settings anyway?</source>
         <translation>Kleur:</translation>
     </message>
     <message>
+        <source>Intersect - Line and Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First point:</source>
+        <translation type="unfinished">Eerste punt:</translation>
+    </message>
+    <message>
+        <source>Second point:</source>
+        <translation type="unfinished">Tweede punt:</translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
+    </message>
+    <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;
-&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation.png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+&lt;table width = 370&gt;&lt;tr&gt;&lt;td align = left width =300&gt;&lt;b&gt;Angle Calculation&lt;/b&gt;&lt;br&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an  angle means counter-clockwise while a negative value means the clockwise direction. Zero degrees is at the 3 o&apos;clock position.&lt;/td&gt;&lt;td align = right valign = middle&gt;&lt;img src=&quot;:/icon/64x64/rotation..png&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
     </message>
 </context>
 <context>
@@ -4085,7 +4493,7 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Point along perpendicular</source>
-        <translation>Punt langs haakse hoek</translation>
+        <translation type="vanished">Punt langs haakse hoek</translation>
     </message>
     <message>
         <source>First point of line</source>
@@ -4121,15 +4529,15 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke labe</translation>
+        <translation type="vanished">Unieke labe</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>First point:</source>
@@ -4141,7 +4549,7 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Additional angle degrees:</source>
-        <translation>Aanvullende graden hoek:</translation>
+        <translation type="vanished">Aanvullende graden hoek:</translation>
     </message>
     <message>
         <source>Type of line:</source>
@@ -4158,6 +4566,50 @@ Apply settings anyway?</source>
     <message>
         <source>Color:</source>
         <translation>Kleur:</translation>
+    </message>
+    <message>
+        <source>Point - On Perpendicular</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
+    </message>
+    <message>
+        <source>Rotation:</source>
+        <translation type="unfinished">Draaiing:</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;370&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;300&quot;&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Rotatation Angle&lt;/span&gt;&lt;br/&gt;Angles are specified in degrees, i.e. a full circle equals 360 deg. Positive values for an angle means counter-clockwise while a negative value means the clockwise direction. &lt;br/&gt;&lt;br/&gt;Rotation angle is added to the angle of the perpendicular.&lt;/p&gt;&lt;/td&gt;&lt;td style=&quot; vertical-align:middle;&quot;&gt;&lt;p align=&quot;right&quot;&gt;&lt;img src=&quot;:/icon/64x64/rotation..png&quot; style=&quot;vertical-align: middle;&quot;/&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> deg</source>
+        <translation type="unfinished"> graad</translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
     </message>
 </context>
 <context>
@@ -4768,7 +5220,7 @@ Apply settings anyway?</source>
     <name>DialogPointFromArcAndTangent</name>
     <message>
         <source>Point from arc and tangent</source>
-        <translation>Kruispunt van boog en raaklijn</translation>
+        <translation type="vanished">Kruispunt van boog en raaklijn</translation>
     </message>
     <message>
         <source>Point label</source>
@@ -4796,15 +5248,15 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>Tangent point:</source>
@@ -4817,6 +5269,26 @@ Apply settings anyway?</source>
     <message>
         <source>Take:</source>
         <translation>Kies:</translation>
+    </message>
+    <message>
+        <source>Point - Intersect Arc and Tangent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4950,7 +5422,7 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Point at intersection of arc and line</source>
-        <translation>Kruispunt van boog en lijn</translation>
+        <translation type="vanished">Kruispunt van boog en lijn</translation>
     </message>
     <message>
         <source>Edit radius</source>
@@ -4974,15 +5446,15 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>Center of arc:</source>
@@ -4990,11 +5462,43 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Top of the line:</source>
-        <translation>Bovenkant van de lijn:</translation>
+        <translation type="vanished">Bovenkant van de lijn:</translation>
     </message>
     <message>
         <source>End of the line:</source>
-        <translation>Einde van de lijn:</translation>
+        <translation type="vanished">Einde van de lijn:</translation>
+    </message>
+    <message>
+        <source>Point - Intersect Arc and Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1st line point:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2nd line point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
     </message>
 </context>
 <context>
@@ -5080,15 +5584,15 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>First arc:</source>
@@ -5104,7 +5608,27 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Tool point of intersetion arcs</source>
-        <translation>Kruispunt van bogen gereedschap</translation>
+        <translation type="vanished">Kruispunt van bogen gereedschap</translation>
+    </message>
+    <message>
+        <source>Point - Intersect Arcs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5218,7 +5742,7 @@ Apply settings anyway?</source>
     <name>DialogPointOfIntersectionCurves</name>
     <message>
         <source>Tool point of intersection curves</source>
-        <translation>Gereedschap kruispunt van krommes</translation>
+        <translation type="vanished">Gereedschap kruispunt van krommes</translation>
     </message>
     <message>
         <source>First curve:</source>
@@ -5230,27 +5754,55 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>Vertical correction:</source>
-        <translation>Verticale correctie:</translation>
+        <translation type="vanished">Verticale correctie:</translation>
     </message>
     <message>
         <source>Horizontal correction:</source>
-        <translation>Horizontale correctie:</translation>
+        <translation type="vanished">Horizontale correctie:</translation>
     </message>
     <message>
         <source>Select second curve</source>
         <translation>Selecteer tweede kromme</translation>
+    </message>
+    <message>
+        <source>Point - Intersect Curves</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical take:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal take:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5736,7 +6288,7 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Special point on shoulder</source>
-        <translation>Speciaal punt op schouder</translation>
+        <translation type="vanished">Speciaal punt op schouder</translation>
     </message>
     <message>
         <source>Line color</source>
@@ -5764,15 +6316,15 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>First point:</source>
@@ -5802,12 +6354,44 @@ Apply settings anyway?</source>
         <source>Color:</source>
         <translation>Kleur:</translation>
     </message>
+    <message>
+        <source>Point - Length to Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
+    </message>
 </context>
 <context>
     <name>DialogSinglePoint</name>
     <message>
         <source>Single point</source>
-        <translation>Enkel punt</translation>
+        <translation type="vanished">Enkel punt</translation>
     </message>
     <message>
         <source>Coordinates on the sheet</source>
@@ -5819,30 +6403,58 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Y coordinate</source>
-        <translation>Y coordinaat</translation>
+        <translation type="vanished">Y coordinaat</translation>
     </message>
     <message>
         <source>X coordinate</source>
-        <translation>X coordinaat</translation>
+        <translation type="vanished">X coordinaat</translation>
     </message>
     <message>
         <source>Point label</source>
-        <translation>Punt label</translation>
+        <translation type="vanished">Punt label</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
+    </message>
+    <message>
+        <source>Base Point</source>
+        <translation type="unfinished">Basis punt</translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>X coordinate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Y coordinate:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DialogSpline</name>
     <message>
         <source>First point</source>
-        <translation type="vanished">Eerste punt</translation>
+        <translation>Eerste punt</translation>
     </message>
     <message>
         <source>Length ratio of the first control point</source>
@@ -5854,7 +6466,7 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Second point</source>
-        <translation type="vanished">Tweede punt</translation>
+        <translation>Tweede punt</translation>
     </message>
     <message>
         <source>Length ratio of the second control point</source>
@@ -5874,7 +6486,7 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Simple curve</source>
-        <translation>Simpele kromme</translation>
+        <translation type="vanished">Simpele kromme</translation>
     </message>
     <message>
         <source>Color</source>
@@ -5894,7 +6506,7 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Control point</source>
-        <translation>Controlle punt</translation>
+        <translation type="vanished">Controlle punt</translation>
     </message>
     <message>
         <source>Angle:</source>
@@ -5972,12 +6584,32 @@ Apply settings anyway?</source>
         <source>Linetype:</source>
         <translation>Lijnsoort:</translation>
     </message>
+    <message>
+        <source>Curve - Interactive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
+    </message>
 </context>
 <context>
     <name>DialogSplinePath</name>
     <message>
         <source>Curved path</source>
-        <translation>Kromme pad</translation>
+        <translation type="vanished">Kromme pad</translation>
     </message>
     <message>
         <source>Point of curve</source>
@@ -6111,6 +6743,34 @@ Apply settings anyway?</source>
         <source>Linetype:</source>
         <translation>Lijnsoort:</translation>
     </message>
+    <message>
+        <source>Spline - Interactive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished">Pad:</translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
+    </message>
+    <message>
+        <source>Result value</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DialogTapePreferences</name>
@@ -6143,7 +6803,7 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Value</source>
-        <translation>Waarde</translation>
+        <translation type="vanished">Waarde</translation>
     </message>
     <message>
         <source>Parser error: %1</source>
@@ -6209,6 +6869,10 @@ Apply settings anyway?</source>
         <source>Value can&apos;t be less than 0</source>
         <translation>Waarde kan niet kleiner dan 0 zijn</translation>
     </message>
+    <message>
+        <source>Result Value</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DialogTriangle</name>
@@ -6250,7 +6914,7 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Triangle tool</source>
-        <translation>Driehoek gereedschap</translation>
+        <translation type="vanished">Driehoek gereedschap</translation>
     </message>
     <message>
         <source>First point of the axis</source>
@@ -6266,23 +6930,23 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>First point of axis:</source>
-        <translation>Eerste punt van de as:</translation>
+        <translation type="vanished">Eerste punt van de as:</translation>
     </message>
     <message>
         <source>Second point of axis:</source>
-        <translation>Tweede punt van de as:</translation>
+        <translation type="vanished">Tweede punt van de as:</translation>
     </message>
     <message>
         <source>First point:</source>
@@ -6292,12 +6956,40 @@ Apply settings anyway?</source>
         <source>Second point:</source>
         <translation>Tweede punt:</translation>
     </message>
+    <message>
+        <source>Point - Intersect Axis and Triangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1st axis point:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2nd axis point:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DialogTrueDarts</name>
     <message>
         <source>True darts</source>
-        <translation>Coupenaden</translation>
+        <translation type="vanished">Coupenaden</translation>
     </message>
     <message>
         <source>First base point</source>
@@ -6385,11 +7077,11 @@ Apply settings anyway?</source>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>Second new dart point:</source>
@@ -6426,6 +7118,18 @@ Apply settings anyway?</source>
     <message>
         <source>2nd new dart point:</source>
         <translation>Tweede nieuwe figuurnaad punt:</translation>
+    </message>
+    <message>
+        <source>True Darts</source>
+        <translation type="unfinished">Echte Figuurnaden</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7161,10 +7865,201 @@ Do you want to download it?</source>
     </message>
 </context>
 <context>
+    <name>HistoryDialog</name>
+    <message>
+        <source>History</source>
+        <translation type="unfinished">Geschiedenis</translation>
+    </message>
+    <message>
+        <source>Find:</source>
+        <translation type="unfinished">Vind:</translation>
+    </message>
+    <message>
+        <source>Search text</source>
+        <translation type="unfinished">Zoek tekst</translation>
+    </message>
+    <message>
+        <source>Id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Naam</translation>
+    </message>
+    <message>
+        <source>Decription</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Base Point</source>
+        <translation type="unfinished">Basis punt</translation>
+    </message>
+    <message>
+        <source>Point Length and Angle from point %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line_%1_%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line from %1 to %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point On Line %1_%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point Length to Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point On Perpendicular %1_%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point On Bisector %1_%2_%3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point Intersect Lines %1_%2 and %3_%4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spl_</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve Interactive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc_</source>
+        <translation type="unfinished">Boog_</translation>
+    </message>
+    <message>
+        <source>Arc Radius &amp; Angles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc Radius &amp; Length %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SplPath_</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spline Interactive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spline Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point Intersect Arc with center %1 &amp; Line %2_%3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point Intersect Line %1_%2 &amp; Perpendicular %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point Intersect Axis %1_%2 &amp; Triangle points %3 and %4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point Intersect XY of points %1 and %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point On Arc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point On Curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point On Spline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%Point Intersect Line &amp; %1_%2 and Axis through point %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point Intersect Curve &amp; Axis through point %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point Intersect Arcs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 - Point Intersect Circles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point Intersect Curves</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point Intersect Circle &amp; Tangent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point Intersect Arc &amp; Tangent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>True Dart %1_%2_%3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ElArc_</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc Elliptical with length %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotation around point %1. Suffix %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mirror by Line %1_%2. Suffix %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mirror by Axis through %1 point. Suffix %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move - rotate around point %1. Suffix %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Beschrijving</translation>
+    </message>
+</context>
+<context>
     <name>InsertNodesDialog</name>
     <message>
         <source>Insert nodes</source>
-        <translation>Voeg kernpunten in</translation>
+        <translation type="vanished">Voeg kernpunten in</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -7242,6 +8137,10 @@ Do you want to download it?</source>
         <source> may need to be manually reversed.</source>
         <translation> moet mogelijk handmatig omgekeerd worden.</translation>
     </message>
+    <message>
+        <source>Insert Nodes</source>
+        <translation type="unfinished">Voeg kernpunten in</translation>
+    </message>
 </context>
 <context>
     <name>InternalStrings</name>
@@ -7254,7 +8153,7 @@ Do you want to download it?</source>
     <name>IntersectCircleTangentDialog</name>
     <message>
         <source>Intersect Circle and Tangent</source>
-        <translation>Snijpunt van cirkel en raaklijn</translation>
+        <translation type="vanished">Snijpunt van cirkel en raaklijn</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -7266,11 +8165,11 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>Take:</source>
@@ -7320,23 +8219,39 @@ Do you want to download it?</source>
         <source>Radius can&apos;t be negative</source>
         <translation>Straal kan niet negatief zijn</translation>
     </message>
+    <message>
+        <source>Point - Intersect Circle and Tangent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>IntersectCircleTangentTool</name>
     <message>
         <source>&lt;b&gt;&lt;big&gt;Can&apos;t find intersection point of&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;circle and tangent&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
-        <translation>&lt;b&gt;&lt;big&gt;Kan het snijpunt van&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;circel en raaklijn niet vinden&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Zal de oorsprong als plaatshouder gebruiken tot het patroon gecorrigeerd is.</translation>
+        <translation type="vanished">&lt;b&gt;&lt;big&gt;Kan het snijpunt van&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;circel en raaklijn niet vinden&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Zal de oorsprong als plaatshouder gebruiken tot het patroon gecorrigeerd is.</translation>
     </message>
     <message>
         <source>Intersect Circle and Tangent</source>
         <translation>Snijpunt van cirkel en raaklijn</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;&lt;big&gt;Can&apos;t find intersection point %1 of&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;Circle and Tangent&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>IntersectCirclesDialog</name>
     <message>
         <source>Intersect Circles</source>
-        <translation>Snijpunten van cirkels</translation>
+        <translation type="vanished">Snijpunten van cirkels</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -7344,15 +8259,15 @@ Do you want to download it?</source>
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>Take:</source>
@@ -7413,6 +8328,33 @@ Do you want to download it?</source>
     <message>
         <source>Radius can&apos;t be negative</source>
         <translation>Straal kan niet negatief zijn</translation>
+    </message>
+    <message>
+        <source>Point - Intersect Circles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>IntersectCirclesTool</name>
+    <message>
+        <source>&lt;b&gt;&lt;big&gt;Can&apos;t find intersection point %1 of Circles&lt;/big&gt;&lt;/b&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point Intersect Circles</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8635,7 +9577,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Elliptical Arc</source>
-        <translation>Ellipsvormige boog</translation>
+        <translation type="vanished">Ellipsvormige boog</translation>
     </message>
     <message>
         <source>Select point of center of elliptical arc</source>
@@ -8843,7 +9785,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Please, additionally provide: %1</source>
-        <translation>Alstublieft, verstrek extra: %1</translation>
+        <translation type="vanished">Alstublieft, verstrek extra: %1</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -8955,47 +9897,47 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Point along Bisector (PB)</source>
-        <translation>Punt langs Bisector (PB)</translation>
+        <translation type="vanished">Punt langs Bisector (PB)</translation>
     </message>
     <message>
         <source>Point on Shoulder (PS)</source>
-        <translation>Punt op Schouder (PS)</translation>
+        <translation type="vanished">Punt op Schouder (PS)</translation>
     </message>
     <message>
         <source>Intersection Point of Line and Arc (PC)</source>
-        <translation>Snijpunt van Lijn en Boog (PC)</translation>
+        <translation type="vanished">Snijpunt van Lijn en Boog (PC)</translation>
     </message>
     <message>
         <source>Triangle (PT)</source>
-        <translation>Driehoek (PT)</translation>
+        <translation type="vanished">Driehoek (PT)</translation>
     </message>
     <message>
         <source>Intersect XY (X, Y)</source>
-        <translation>Snijpunt XY (X,Y)</translation>
+        <translation type="vanished">Snijpunt XY (X,Y)</translation>
     </message>
     <message>
         <source>Intersection Point of Line and Perpendicular (PL)</source>
-        <translation>Snijpunt Lijn en Loodrechte (PL)</translation>
+        <translation type="vanished">Snijpunt Lijn en Loodrechte (PL)</translation>
     </message>
     <message>
         <source>Intersection Point of Line and Axis (IX)</source>
-        <translation>Snijpunt Lijn en As (IX)</translation>
+        <translation type="vanished">Snijpunt Lijn en As (IX)</translation>
     </message>
     <message>
         <source>Point on Perpendicular (PP)</source>
-        <translation>Punt langs loodrechte (PP)</translation>
+        <translation type="vanished">Punt langs loodrechte (PP)</translation>
     </message>
     <message>
         <source>Point at Distance and Angle (DA)</source>
-        <translation>Punt op Afstand en Hoek (DA)</translation>
+        <translation type="vanished">Punt op Afstand en Hoek (DA)</translation>
     </message>
     <message>
         <source>Point at Distance along Line (PA)</source>
-        <translation>Punt op Afstand langs Lijn (PA)</translation>
+        <translation type="vanished">Punt op Afstand langs Lijn (PA)</translation>
     </message>
     <message>
         <source>Midpoint between 2 Points (MP)</source>
-        <translation>Middelpunt tussen twee punten (MP)</translation>
+        <translation type="vanished">Middelpunt tussen twee punten (MP)</translation>
     </message>
     <message>
         <source>Line between 2 Points (Alt+L)</source>
@@ -9003,75 +9945,75 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Intersection Point of 2 Lines (IL)</source>
-        <translation>Snijpunt van 2 Lijnen (IL)</translation>
+        <translation type="vanished">Snijpunt van 2 Lijnen (IL)</translation>
     </message>
     <message>
         <source>Curve (Alt+C)</source>
-        <translation>Kromme (Alt+C)</translation>
+        <translation type="vanished">Kromme (Alt+C)</translation>
     </message>
     <message>
         <source>Spline (Alt+S)</source>
-        <translation>Spline kromme (Alt+S)</translation>
+        <translation type="vanished">Spline kromme (Alt+S)</translation>
     </message>
     <message>
         <source>Curve with Control Points (CP)</source>
-        <translation>Kromme met controlepunten (CP)</translation>
+        <translation type="vanished">Kromme met controlepunten (CP)</translation>
     </message>
     <message>
         <source>Spline with Control Points (SP)</source>
-        <translation>Spline met controlepunten (SP)</translation>
+        <translation type="vanished">Spline met controlepunten (SP)</translation>
     </message>
     <message>
         <source>Point along Curve (AC)</source>
-        <translation>Punt langs Kromme (AC)</translation>
+        <translation type="vanished">Punt langs Kromme (AC)</translation>
     </message>
     <message>
         <source>Point along Spline (AS)</source>
-        <translation>Punt langs Spline (AS)</translation>
+        <translation type="vanished">Punt langs Spline (AS)</translation>
     </message>
     <message>
         <source>Intersection Point of Curves (CC)</source>
-        <translation>Snijpunt van krommes (CC)</translation>
+        <translation type="vanished">Snijpunt van krommes (CC)</translation>
     </message>
     <message>
         <source>Intersection Point of Curve and Axis (CA)</source>
-        <translation>Snijpunt van Kromme met As (CA)</translation>
+        <translation type="vanished">Snijpunt van Kromme met As (CA)</translation>
     </message>
     <message>
         <source>Arc (Alt+A)</source>
-        <translation>Boog (Alt+A)</translation>
+        <translation type="vanished">Boog (Alt+A)</translation>
     </message>
     <message>
         <source>Point along Arc (AA)</source>
-        <translation>Punt langs Boog (AA)</translation>
+        <translation type="vanished">Punt langs Boog (AA)</translation>
     </message>
     <message>
         <source>Intersection Point of Arc and Axis (AX)</source>
-        <translation>Snijpunt van Boog met As (AX)</translation>
+        <translation type="vanished">Snijpunt van Boog met As (AX)</translation>
     </message>
     <message>
         <source>Intersection Point of Arcs (IA)</source>
-        <translation>Snijpunt van Bogen (IA)</translation>
+        <translation type="vanished">Snijpunt van Bogen (IA)</translation>
     </message>
     <message>
         <source>Intersection Point of Circles (IC)</source>
-        <translation>Snijpunt van Cirkels (IC)</translation>
+        <translation type="vanished">Snijpunt van Cirkels (IC)</translation>
     </message>
     <message>
         <source>Intersection Point of Circle and Tangent (CT)</source>
-        <translation>Snijpunt van Cirkel met Raaklijn (CT)</translation>
+        <translation type="vanished">Snijpunt van Cirkel met Raaklijn (CT)</translation>
     </message>
     <message>
         <source>Tangency Point of Arc and Tangent (AT)</source>
-        <translation>Raakpunt van cirkel met raaklijn (AT)</translation>
+        <translation type="vanished">Raakpunt van cirkel met raaklijn (AT)</translation>
     </message>
     <message>
         <source>Arc with Length (AL)</source>
-        <translation>Boog met Lengte (AL)</translation>
+        <translation type="vanished">Boog met Lengte (AL)</translation>
     </message>
     <message>
         <source>Elliptical Arc (E,A)</source>
-        <translation>Elliptische Boog (E,A)</translation>
+        <translation type="vanished">Elliptische Boog (E,A)</translation>
     </message>
     <message>
         <source>Tools for performing operations on objects</source>
@@ -9079,7 +10021,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Create New Group (G)</source>
-        <translation>Maak nieuwe groep (G)</translation>
+        <translation type="vanished">Maak nieuwe groep (G)</translation>
     </message>
     <message>
         <source>Rotate Selected Objects (R)</source>
@@ -9087,19 +10029,19 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Mirror Objects by Line (ML)</source>
-        <translation>Spiegel Objecten over LIjn (ML)</translation>
+        <translation type="vanished">Spiegel Objecten over LIjn (ML)</translation>
     </message>
     <message>
         <source>Mirror Objects by Axis (MA)</source>
-        <translation>Spiegel Objecten over As (MA)</translation>
+        <translation type="vanished">Spiegel Objecten over As (MA)</translation>
     </message>
     <message>
         <source>Move Objects (MM)</source>
-        <translation>Verplaats Objecten (MM)</translation>
+        <translation type="vanished">Verplaats Objecten (MM)</translation>
     </message>
     <message>
         <source>True Darts (TD)</source>
-        <translation>Echte Figuurnaden</translation>
+        <translation type="vanished">Echte Figuurnaden</translation>
     </message>
     <message>
         <source>Export Draft Blocks (E, D)</source>
@@ -9115,19 +10057,19 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Add New Pattern Piece (NP)</source>
-        <translation>Voeg nieuw Patroondeel toe (NP)</translation>
+        <translation type="vanished">Voeg nieuw Patroondeel toe (NP)</translation>
     </message>
     <message>
         <source>Add Anchor Point (AP)</source>
-        <translation>Voeg Ankerpunt toe (AP)</translation>
+        <translation type="vanished">Voeg Ankerpunt toe (AP)</translation>
     </message>
     <message>
         <source>Insert Nodes (IN)</source>
-        <translation>Voeg kernpunten in (IN)</translation>
+        <translation type="vanished">Voeg kernpunten in (IN)</translation>
     </message>
     <message>
         <source>Add Internal Path (IP)</source>
-        <translation>Voeg binnenpad toe (IP)</translation>
+        <translation type="vanished">Voeg binnenpad toe (IP)</translation>
     </message>
     <message>
         <source>Tools for adding details to pattern pieces</source>
@@ -9139,15 +10081,15 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Export Pieces (EP)</source>
-        <translation>Exporteer Patroondelen (EP)</translation>
+        <translation type="vanished">Exporteer Patroondelen (EP)</translation>
     </message>
     <message>
         <source>New Print Layout (NL)</source>
-        <translation>Nieuwe afdrukopmaak (NL)</translation>
+        <translation type="vanished">Nieuwe afdrukopmaak (NL)</translation>
     </message>
     <message>
         <source>Export Layout (EL)</source>
-        <translation>Exporteer Opmaak (EL)</translation>
+        <translation type="vanished">Exporteer Opmaak (EL)</translation>
     </message>
     <message>
         <source>View Toolbar</source>
@@ -9243,7 +10185,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>M, M</source>
-        <translation>M, M</translation>
+        <translation type="vanished">M, M</translation>
     </message>
     <message>
         <source>True Darts</source>
@@ -9255,11 +10197,11 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Elliptical Arc (EA)</source>
-        <translation>Elliptische Boog (E,A)</translation>
+        <translation type="vanished">Elliptische Boog (E,A)</translation>
     </message>
     <message>
         <source>E, A</source>
-        <translation>E, A</translation>
+        <translation type="vanished">E, A</translation>
     </message>
     <message>
         <source>Midpoint</source>
@@ -9267,43 +10209,43 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>M, P</source>
-        <translation>M, P</translation>
+        <translation type="vanished">M, P</translation>
     </message>
     <message>
         <source>Point at Distance along Line</source>
-        <translation>Punt op afstand langs lijn</translation>
+        <translation type="vanished">Punt op afstand langs lijn</translation>
     </message>
     <message>
         <source>P, A</source>
-        <translation>P, A</translation>
+        <translation type="vanished">P, A</translation>
     </message>
     <message>
         <source>Point at Distance and Angle</source>
-        <translation>Punt op afstand en hoek</translation>
+        <translation type="vanished">Punt op afstand en hoek</translation>
     </message>
     <message>
         <source>D, A</source>
-        <translation>D, A</translation>
+        <translation type="vanished">D, A</translation>
     </message>
     <message>
         <source>Point on Perpendicular</source>
-        <translation>Punt langs loodrechte (PP)</translation>
+        <translation type="vanished">Punt langs loodrechte (PP)</translation>
     </message>
     <message>
         <source>P, P</source>
-        <translation>P, P</translation>
+        <translation type="vanished">P, P</translation>
     </message>
     <message>
         <source>Point along Bisector</source>
-        <translation>Punt langs bisector</translation>
+        <translation type="vanished">Punt langs bisector</translation>
     </message>
     <message>
         <source>P, B</source>
-        <translation>P, B</translation>
+        <translation type="vanished">P, B</translation>
     </message>
     <message>
         <source>Point on Shoulder</source>
-        <translation>Punt op Schouder (PS)</translation>
+        <translation type="vanished">Punt op Schouder (PS)</translation>
     </message>
     <message>
         <source>P, S</source>
@@ -9311,19 +10253,19 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Intersection Point of Line and Arc</source>
-        <translation>Snijpunt van Lijn en Boog (PC)</translation>
+        <translation type="vanished">Snijpunt van Lijn en Boog (PC)</translation>
     </message>
     <message>
         <source>P, C</source>
-        <translation>P, C</translation>
+        <translation type="vanished">P, C</translation>
     </message>
     <message>
         <source>Triangle</source>
-        <translation>Driehoek (PT)</translation>
+        <translation type="vanished">Driehoek (PT)</translation>
     </message>
     <message>
         <source>P, T</source>
-        <translation>P, T</translation>
+        <translation type="vanished">P, T</translation>
     </message>
     <message>
         <source>Intersect XY</source>
@@ -9331,7 +10273,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Intersect  XY  (XY)</source>
-        <translation>Snijpunt XY (XY)</translation>
+        <translation type="vanished">Snijpunt XY (XY)</translation>
     </message>
     <message>
         <source>X, Y</source>
@@ -9339,23 +10281,23 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Intersection Point of Line and Perpendicular</source>
-        <translation>Snijpunt van Lijn en Loodrechte</translation>
+        <translation type="vanished">Snijpunt van Lijn en Loodrechte</translation>
     </message>
     <message>
         <source>P, L</source>
-        <translation>P, L</translation>
+        <translation type="vanished">P, L</translation>
     </message>
     <message>
         <source>Intersection Point of Line and Axis</source>
-        <translation>Snijpunt van Lijn en As</translation>
+        <translation type="vanished">Snijpunt van Lijn en As</translation>
     </message>
     <message>
         <source>I, X</source>
-        <translation>I, X</translation>
+        <translation type="vanished">I, X</translation>
     </message>
     <message>
         <source>Intersection Point of 2  Lines</source>
-        <translation>Snijpunt van 2 Lijnen</translation>
+        <translation type="vanished">Snijpunt van 2 Lijnen</translation>
     </message>
     <message>
         <source>I, L</source>
@@ -9367,23 +10309,23 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Point along Curve</source>
-        <translation>Punt langs Kromme</translation>
+        <translation type="vanished">Punt langs Kromme</translation>
     </message>
     <message>
         <source>A, C</source>
-        <translation>A, C</translation>
+        <translation type="vanished">A, C</translation>
     </message>
     <message>
         <source>Curve with Control Points</source>
-        <translation>Kromme met controlepunten</translation>
+        <translation type="vanished">Kromme met controlepunten</translation>
     </message>
     <message>
         <source>C, P</source>
-        <translation>C, P</translation>
+        <translation type="vanished">C, P</translation>
     </message>
     <message>
         <source>Spline</source>
-        <translation>Spline</translation>
+        <translation type="vanished">Spline</translation>
     </message>
     <message>
         <source>Alt+S</source>
@@ -9391,35 +10333,35 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Point along Spline</source>
-        <translation>Punt langs Spline</translation>
+        <translation type="vanished">Punt langs Spline</translation>
     </message>
     <message>
         <source>A, S</source>
-        <translation>A, S</translation>
+        <translation type="vanished">A, S</translation>
     </message>
     <message>
         <source>Spline with Control Points</source>
-        <translation>Spline met controlepunten</translation>
+        <translation type="vanished">Spline met controlepunten</translation>
     </message>
     <message>
         <source>S, P</source>
-        <translation>S, P</translation>
+        <translation type="vanished">S, P</translation>
     </message>
     <message>
         <source>Intersection Point of Curves</source>
-        <translation>Snijpunt van Krommes</translation>
+        <translation type="vanished">Snijpunt van Krommes</translation>
     </message>
     <message>
         <source>C, C</source>
-        <translation>C, C</translation>
+        <translation type="vanished">C, C</translation>
     </message>
     <message>
         <source>Intersection Point of Curve and Axis</source>
-        <translation>Snijpunt van Kromme met As</translation>
+        <translation type="vanished">Snijpunt van Kromme met As</translation>
     </message>
     <message>
         <source>C, A</source>
-        <translation>C, A</translation>
+        <translation type="vanished">C, A</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -9427,15 +10369,15 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Point along Arc</source>
-        <translation>Punt langs Boog</translation>
+        <translation type="vanished">Punt langs Boog</translation>
     </message>
     <message>
         <source>A, A</source>
-        <translation>A, A</translation>
+        <translation type="vanished">A, A</translation>
     </message>
     <message>
         <source>Intersection Point of Arc and Axis</source>
-        <translation>Snijpunt van Boog met As</translation>
+        <translation type="vanished">Snijpunt van Boog met As</translation>
     </message>
     <message>
         <source>A, X</source>
@@ -9443,7 +10385,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Intersection Point of Arcs</source>
-        <translation>Snijpunt van Bogen</translation>
+        <translation type="vanished">Snijpunt van Bogen</translation>
     </message>
     <message>
         <source>I, A</source>
@@ -9451,7 +10393,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Intersection Point of Circles</source>
-        <translation>Snijpunt van Cirkels</translation>
+        <translation type="vanished">Snijpunt van Cirkels</translation>
     </message>
     <message>
         <source>I, C</source>
@@ -9459,7 +10401,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Intersection Point of Circle and Tangent</source>
-        <translation>Snijpunt van Cirkel met Raaklijn</translation>
+        <translation type="vanished">Snijpunt van Cirkel met Raaklijn</translation>
     </message>
     <message>
         <source>C, T</source>
@@ -9467,7 +10409,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Tangency Point of Arc and Tangent</source>
-        <translation>Raakpunt van Boog en Raaklijn</translation>
+        <translation type="vanished">Raakpunt van Boog en Raaklijn</translation>
     </message>
     <message>
         <source>A, T</source>
@@ -9475,7 +10417,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Arc with Length</source>
-        <translation>Boog met Lengte (AL)</translation>
+        <translation type="vanished">Boog met Lengte (AL)</translation>
     </message>
     <message>
         <source>A, L</source>
@@ -9555,7 +10497,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Activate last used tool (L)</source>
-        <translation>Gebruik Laatste Gereedschap (L)</translation>
+        <translation type="vanished">Gebruik Laatste Gereedschap (L)</translation>
     </message>
     <message>
         <source>Curve Control Points</source>
@@ -9583,7 +10525,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Zoom to Selected (CTRL+Right)</source>
-        <translation>Zoom in op geselecteerd object (Ctrl+Rechts)</translation>
+        <translation type="vanished">Zoom in op geselecteerd object (Ctrl+Rechts)</translation>
     </message>
     <message>
         <source>Label Template Editor...</source>
@@ -9607,7 +10549,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Zoom to selected Area (CTRL+A)</source>
-        <translation>Zoom in op geselecteerd gebied (Ctrl+A)</translation>
+        <translation type="vanished">Zoom in op geselecteerd gebied (Ctrl+A)</translation>
     </message>
     <message>
         <source>Ctrl+A</source>
@@ -9619,7 +10561,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Pan Work Area (Z,P)</source>
-        <translation>Toon werkgebied (Z, P)</translation>
+        <translation type="vanished">Toon werkgebied (Z, P)</translation>
     </message>
     <message>
         <source>Z, P</source>
@@ -9719,7 +10661,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Create New Print Layout (NL)</source>
-        <translation>Maak Nieuwe afdrukopmaak (NL)</translation>
+        <translation type="vanished">Maak Nieuwe afdrukopmaak (NL)</translation>
     </message>
     <message>
         <source>N, L</source>
@@ -9899,7 +10841,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Export Draft Blocks (ED)</source>
-        <translation>Exporteer Tekenblok (E,D)</translation>
+        <translation type="vanished">Exporteer Tekenblok (E,D)</translation>
     </message>
     <message>
         <source>E, D</source>
@@ -9939,123 +10881,123 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Points - Midpoint along Line&lt;/b&gt;: Select first point</source>
-        <translation>&lt;b&gt;Gereedschap::Punt - Middelpunt langs Lijn&lt;/b&gt;: Kies eerste punt</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Punt - Middelpunt langs Lijn&lt;/b&gt;: Kies eerste punt</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Points - Point at Distance &amp; Angle&lt;/b&gt;: Select point</source>
-        <translation>&lt;b&gt;Gereedschap::Punt - Punt op Afstand &amp; Hoek&lt;/b&gt;: Kies punt</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Punt - Punt op Afstand &amp; Hoek&lt;/b&gt;: Kies punt</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Points - Point along Line:&lt;/b&gt; Select first point</source>
-        <translation>&lt;b&gt;Gereedschap::Punt - Punt lans een Lijn:&lt;/b&gt; Kies eerste punt</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Punt - Punt lans een Lijn:&lt;/b&gt; Kies eerste punt</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Points - Point on Perpendicular:&lt;/b&gt; Select first point of line</source>
-        <translation>&lt;b&gt;Gereedschap::Punt - Punt op Loodrechte:&lt;/b&gt; Kies eerste punt van de lijn</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Punt - Punt op Loodrechte:&lt;/b&gt; Kies eerste punt van de lijn</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Points - Point along Bisector:&lt;/b&gt; Select first point of angle</source>
-        <translation>&lt;b&gt;Gereedschap::Punt - Punt op Bisectrice:&lt;/b&gt; Kies eerste punt van de hoek</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Punt - Punt op Bisectrice:&lt;/b&gt; Kies eerste punt van de hoek</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Points - Shoulder Point:&lt;/b&gt; Select point</source>
-        <translation>&lt;b&gt;Gereedschap::Punt - Schouderpunt:&lt;/b&gt; Kies punt</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Punt - Schouderpunt:&lt;/b&gt; Kies punt</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Points - Intersection Point of Line and Arc:&lt;/b&gt; Select first point of line</source>
-        <translation>&lt;b&gt;Gereedschap::Punt - Snijpunt van Lijn en Boog:&lt;/b&gt; Kies eerste punt van de lijn</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Punt - Snijpunt van Lijn en Boog:&lt;/b&gt; Kies eerste punt van de lijn</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Points - Triangle:&lt;/b&gt; Select first point of axis</source>
-        <translation>&lt;b&gt;Gereedschap::Punt - Driehoek:&lt;/b&gt; Kies eerste punt van de As</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Punt - Driehoek:&lt;/b&gt; Kies eerste punt van de As</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Points - Intersection Point XY from 2 Points:&lt;/b&gt; Select point for X value (vertical)</source>
-        <translation>&lt;b&gt;Gereedschap::Punt - Snijpunt XY vanuit 2 Punten:&lt;/b&gt; Kies punt voor X waarde (verticale)</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Punt - Snijpunt XY vanuit 2 Punten:&lt;/b&gt; Kies punt voor X waarde (verticale)</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Points - Intersection Point of Line and Perpendicular:&lt;/b&gt; Select base point</source>
-        <translation>&lt;b&gt;Gereedschp::Punt - Snijpunt van Lijn en Loodrechte:&lt;/b&gt; Kies basispunt</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschp::Punt - Snijpunt van Lijn en Loodrechte:&lt;/b&gt; Kies basispunt</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Points - Intersection Point of Line and Axis:&lt;/b&gt; Select first point of line</source>
-        <translation>&lt;b&gt;Gereedschap::Punt - Snijpunt van Lijn en as: &lt;/b&gt; Kies eerste punt van de lijn</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Punt - Snijpunt van Lijn en as: &lt;/b&gt; Kies eerste punt van de lijn</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Lines - Line:&lt;/b&gt;:Select first point</source>
-        <translation>&lt;b&gt;Gereedschap::Lijn - Lijn:&lt;/b&gt; Kies eerste punt</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Lijn - Lijn:&lt;/b&gt; Kies eerste punt</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Lines - Intersection Point of 2 Lines:&lt;/b&gt; Select first point of first line</source>
-        <translation>&lt;b&gt;Gereedschap::Lijn - Snijpunt van 2 Lijnen: &lt;/b&gt; Kies eerste punt van eerste lijn</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Lijn - Snijpunt van 2 Lijnen: &lt;/b&gt; Kies eerste punt van eerste lijn</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Curves - Curve:&lt;/b&gt; Select start point of curve</source>
-        <translation>&lt;b&gt;Gereedschap::Kromme - Kromme:&lt;/b&gt; Kies beginpunt van Kromme</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Kromme - Kromme:&lt;/b&gt; Kies beginpunt van Kromme</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Curves - Spline:&lt;/b&gt; Select start point of spline</source>
-        <translation>&lt;b&gt;Gereedschap::Kromme - Spline:&lt;/b&gt; Kies beginpunt van spline</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Kromme - Spline:&lt;/b&gt; Kies beginpunt van spline</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Curves - Curve with Control Points:&lt;/b&gt; Select first point of curve</source>
-        <translation>&lt;b&gt;Gereedschap::Kromme - Kromme met controlepunten:&lt;/b&gt; Kies beginpunt van Kromme</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Kromme - Kromme met controlepunten:&lt;/b&gt; Kies beginpunt van Kromme</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Curves - Spline with Control Points:&lt;/b&gt; Select first point of spline</source>
-        <translation>&lt;b&gt;Gereedschap::Kromme - Spline met controlepunten:&lt;/b&gt; Kies beginpunt van spline</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Kromme - Spline met controlepunten:&lt;/b&gt; Kies beginpunt van spline</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Curves - Point along Curve:&lt;/b&gt; Select first point of curve</source>
-        <translation>&lt;b&gt;Gereedschap::Kromme - Punt langs Kromme:&lt;/b&gt; Kies beginput van Kromme</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Kromme - Punt langs Kromme:&lt;/b&gt; Kies beginput van Kromme</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Curves - Point along Spline:&lt;/b&gt; Select spline</source>
-        <translation>&lt;b&gt;Gereedschap::Kromme - Punt langs een Spline: &lt;/b&gt; Kies Spline</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Kromme - Punt langs een Spline: &lt;/b&gt; Kies Spline</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Curves - Intersection Point of Curves:&lt;/b&gt; Select first curve</source>
-        <translation>&lt;b&gt;Gereedschap::Kromme - Snijpunt van Krommes: &lt;/b&gt; Kies eerste Kromme</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Kromme - Snijpunt van Krommes: &lt;/b&gt; Kies eerste Kromme</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Curves - Intersection Point of Curve and Axis:&lt;/b&gt; Select curve</source>
-        <translation>&lt;b&gt;Gereedschap::Kromme - Snijpunt van Kromme en as:&lt;/b&gt; Kies Kromme</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Kromme - Snijpunt van Kromme en as:&lt;/b&gt; Kies Kromme</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Arcs - Arc:&lt;/b&gt; Select point of center of arc</source>
-        <translation>&lt;b&gt;Gereedschap::Boog - Boog:&lt;/b&gt; Kies middelpunt van boog</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Boog - Boog:&lt;/b&gt; Kies middelpunt van boog</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Arc - Point along Arc:&lt;/b&gt; Select arc</source>
-        <translation>&lt;b&gt;Gereedschap::Boog - Punt langs Boog:&lt;/b&gt; Kies boog</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Boog - Punt langs Boog:&lt;/b&gt; Kies boog</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Arc - Intersection Point of Arc and Axis:&lt;/b&gt; Select arc</source>
-        <translation>&lt;b&gt;Gereedschap::Boog - Snijpunt van Boog en As:&lt;/b&gt; Kies boog</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Boog - Snijpunt van Boog en As:&lt;/b&gt; Kies boog</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Arc - Intersection Point of Arcs:&lt;/b&gt; Select first an arc</source>
-        <translation>&lt;b&gt;Gereedschap::Boog - Snijpunt van Bogen:&lt;/b&gt; Kies eerst een boog</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Boog - Snijpunt van Bogen:&lt;/b&gt; Kies eerst een boog</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Arc - Intersection Point of Circles:&lt;/b&gt; Select first circle center</source>
-        <translation> &lt;b&gt;Gereedschap::Boog - Snijpunt van Cirkels:&lt;/b&gt; Kies middelpunt van eerste cirkel</translation>
+        <translation type="vanished"> &lt;b&gt;Gereedschap::Boog - Snijpunt van Cirkels:&lt;/b&gt; Kies middelpunt van eerste cirkel</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Arc - Tangency Point of Circle and Tangent:&lt;/b&gt; Select point on tangent</source>
-        <translation>&lt;b&gt;Gereedschap::Boog - Raakpunt van Cirkel en Raaklijn:&lt;/b&gt; Kies punt op de raaklijn</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Boog - Raakpunt van Cirkel en Raaklijn:&lt;/b&gt; Kies punt op de raaklijn</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Arc - Tangency Point of Arc and Tangent:&lt;/b&gt; Select point on tangent</source>
-        <translation>&lt;b&gt;Gereedschap::Boog - Raakpunt van Boog en Raaklijn:&lt;/b&gt; Kies punt op raaklijn</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Boog - Raakpunt van Boog en Raaklijn:&lt;/b&gt; Kies punt op raaklijn</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Arc - Arc with Length:&lt;/b&gt; Select point of the center of the arc</source>
-        <translation>&lt;b&gt;Gereedschap::Boog - Boog met Lengte:&lt;/b&gt; Kies middelpunt van de boog</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Boog - Boog met Lengte:&lt;/b&gt; Kies middelpunt van de boog</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Elliptical Arcs - Elliptical Arc:&lt;/b&gt; Select point of center of elliptical arc</source>
-        <translation>&lt;b&gt;Gereedschap::Elliptische Boog - Elliptische Boog:&lt;/b&gt; Kies middelpunt van elliptische boog</translation>
+        <translation type="vanished">&lt;b&gt;Gereedschap::Elliptische Boog - Elliptische Boog:&lt;/b&gt; Kies middelpunt van elliptische boog</translation>
     </message>
     <message>
         <source>&lt;b&gt;Tool::Operations - Create Group:&lt;/b&gt; Select one or more objects - Hold &lt;b&gt;%1&lt;/b&gt; for multiple selection, Press &lt;b&gt;ENTER&lt;/b&gt; to finish group creation </source>
@@ -10087,19 +11029,19 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Line Between 2 Points</source>
-        <translation>Lijn Tussen 2 Punten</translation>
+        <translation type="vanished">Lijn Tussen 2 Punten</translation>
     </message>
     <message>
         <source>Point Intersect of 2 Lines</source>
-        <translation>Snijpunt van 2 Lijnen</translation>
+        <translation type="vanished">Snijpunt van 2 Lijnen</translation>
     </message>
     <message>
         <source>Tangency Point of Circle and Tangent</source>
-        <translation>Raakpunt van Cirkel en Raaklijn</translation>
+        <translation type="vanished">Raakpunt van Cirkel en Raaklijn</translation>
     </message>
     <message>
         <source>Intersection Point of Curve &amp; Axis</source>
-        <translation>Snijpunt van Kromme en As</translation>
+        <translation type="vanished">Snijpunt van Kromme en As</translation>
     </message>
     <message>
         <source>New Group</source>
@@ -10212,6 +11154,570 @@ Do you want to save your changes?</source>
     <message>
         <source>Draft Block %1</source>
         <translation>Tekenblok %1</translation>
+    </message>
+    <message>
+        <source>Point - On Bisector (O, B)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Length to Line (P, S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Arc and Line (A, L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Axis and Triangle (X, T)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect XY (X, Y)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Line and Perpendicular (L, P)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Line and Axis (L, X)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - On Perpendicular (O, P)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Length and Angle (L, A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - On Line (O, L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Midpoint on Line (Shift+O, Shift+L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Lines (I, L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve - Interactive (Alt+C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spline - Interactive (Alt+S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve - Fixed (Alt+Shift+C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spline - Fixed (Alt+Shift+S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - On Spline (O, S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Curves (I, C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Curve and Axis (C, X)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - On Curve (O, C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc - Radius and Angles (Alt+A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - On Arc (O, A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Arc and Axis (A, X)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Arcs (I, A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Circles (Shift+I, Shift+C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Circle and Tangent (C, T)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Arc and Tangent (A, T)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc - Radius and Length (Alt+Shift+A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc - Elliptical (Alt+E)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Group (G)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mirror Objects by Line (M, L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mirror Objects by Axis (M, A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Objects (Alt+M)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>True Darts (T, D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add New Pattern Piece (N, P)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Anchor Point (A, P)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Nodes (I, N)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Internal Path (I, P)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Pieces (E, P)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Print Layout (N, L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Layout (E, L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt+M</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Elliptical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc -Elliptical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt+E</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Midpoint on Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Mispoint on Line (Shift+O, Shift+L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift+O, Shift+L</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O, L</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Length and Angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>L, A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On Perpendicular</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O, P</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On Bisector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O, B</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Length to Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect  Arc and Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Axis and Triangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>X, T</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Line and Perpendicular</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>L, P</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Line and Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>L, X</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve - Interactive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point on Curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point on Curve (A, C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O, C</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve - Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt+Shift+C</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spline - Interactive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point on Spline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point on Spline (O, S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O, S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spline - Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt+Shift+S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Curves</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Curve and Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C, X</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius and Angles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc - Radius and Angles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point on Arc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point on Arc (O, A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O, A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Arc and Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Arc and Axis (A, X)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Arcs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Arcs (I, A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Circles</source>
+        <translation type="unfinished">Snijpunten van cirkels</translation>
+    </message>
+    <message>
+        <source>Intersect Circles (Shift+I, Shift+C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift+I, Shift+C</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Circle and Tangent</source>
+        <translation type="unfinished">Snijpunt van cirkel en raaklijn</translation>
+    </message>
+    <message>
+        <source>Intersect Circle and Tangent (C, T)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Arc and Tangent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Arc and Tangent (A, T)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius and Length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc - Radius and Length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt+Shift+A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate last used tool (Ctrl+Shift+L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom to Selected (Ctrl+Right)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom to selected Area (Ctrl+A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pan Work Area (Z, P)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create New Print Layout (N, L)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom to point (Ctrl + Alt + P)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl+Alt+P</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please provide additional measurements: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Midpoint on Line&lt;/b&gt;: Select first point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Length and Angle&lt;/b&gt;: Select point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - On Line:&lt;/b&gt; Select first point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - On Perpendicular:&lt;/b&gt; Select first point of line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - On Bisector:&lt;/b&gt; Select first point of angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Length to Line:&lt;/b&gt; Select point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Intersect Arc and Line:&lt;/b&gt; Select first point of line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Intersect Axis and Triangle:&lt;/b&gt; Select first point of axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Intersect XY&lt;/b&gt; Select point for X value (vertical)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Intersect Line and Perpendicular:&lt;/b&gt; Select base point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Intersect Line and Axis:&lt;/b&gt; Select first point of line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Line:&lt;/b&gt;:Select first point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Intersect Lines:&lt;/b&gt; Select first point of first line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Curve - Interactive:&lt;/b&gt; Select start point of curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Spline - Interactive:&lt;/b&gt; Select start point of spline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Curve - Fixed:&lt;/b&gt; Select first point of curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Spline - Fixed:&lt;/b&gt; Select first point of spline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - On Curve:&lt;/b&gt; Select first point of curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - On Spline:&lt;/b&gt; Select spline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Intersect Curves:&lt;/b&gt; Select first curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Intersect Curve and Axis:&lt;/b&gt; Select curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Arc - Radius and Angles:&lt;/b&gt; Select point of center of arc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - On Arc:&lt;/b&gt; Select arc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Intersect Arc and Axis:&lt;/b&gt; Select arc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Intersect Arcs:&lt;/b&gt; Select first an arc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Intersect Circles:&lt;/b&gt; Select first circle center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Intersect Circle and Tangent:&lt;/b&gt; Select point on tangent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Point - Intersect Arc and Tangent:&lt;/b&gt; Select point on tangent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Arc - Radius and Length:&lt;/b&gt; Select point of the center of the arc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Tool::Arc - Elliptical:&lt;/b&gt; Select point of center of elliptical arc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom to Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point:</source>
+        <translation type="unfinished">Punt:</translation>
+    </message>
+    <message>
+        <source>Intersect Arc and Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Curve &amp; Axis</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11355,6 +12861,22 @@ Do you want to save your changes?</source>
         <source>Hide Seam Line</source>
         <translation>Verberg Naadtoeslaglijn</translation>
     </message>
+    <message>
+        <source>Seam Allowance</source>
+        <translation type="unfinished">Naadtoeslag</translation>
+    </message>
+    <message>
+        <source>Paths</source>
+        <translation type="unfinished">Paden</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished">Eigenschappen</translation>
+    </message>
+    <message>
+        <source>Labels</source>
+        <translation type="unfinished">Labels</translation>
+    </message>
 </context>
 <context>
     <name>PatternPieceTool</name>
@@ -11582,11 +13104,11 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>Unique label</source>
-        <translation>Unieke label</translation>
+        <translation type="vanished">Unieke label</translation>
     </message>
     <message>
         <source>Choose unique label.</source>
-        <translation>Kies unieke label.</translation>
+        <translation type="vanished">Kies unieke label.</translation>
     </message>
     <message>
         <source>1st point:</source>
@@ -11615,6 +13137,14 @@ Do you want to save your changes?</source>
     <message>
         <source>Select point for Y value (horizontal)</source>
         <translation>Selecteer punt voor Y waarde (horizontaal)</translation>
+    </message>
+    <message>
+        <source>Unique name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose unique name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12742,6 +14272,30 @@ Do you want to save your changes?</source>
     <message>
         <source>move piece</source>
         <translation>verplaats patroondeel</translation>
+    </message>
+    <message>
+        <source>Solidline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Pen</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16030,7 +17584,19 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>      Label</source>
-        <translation>      Label</translation>
+        <translation type="vanished">      Label</translation>
+    </message>
+    <message>
+        <source>      Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>      Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc - Radius and Length</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16251,6 +17817,14 @@ Wil je deze veranderingen opslaan?</translation>
         <source>Name</source>
         <translation>Naam</translation>
     </message>
+    <message>
+        <source>&lt;b&gt;&lt;big&gt;Can&apos;t find intersection point %1 of&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;Line and Axis&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Line and Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>VToolLinePoint</name>
@@ -16324,7 +17898,7 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Point at distance and angle</source>
-        <translation>Punt  op afstand en hoek</translation>
+        <translation type="vanished">Punt  op afstand en hoek</translation>
     </message>
     <message>
         <source>Line type</source>
@@ -16340,11 +17914,11 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Point at distance along line</source>
-        <translation>Punt op afstand langs lijn</translation>
+        <translation type="vanished">Punt op afstand langs lijn</translation>
     </message>
     <message>
         <source>Arc</source>
-        <translation>Boog</translation>
+        <translation type="vanished">Boog</translation>
     </message>
     <message>
         <source>Radius</source>
@@ -16360,35 +17934,35 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Point along bisector</source>
-        <translation>Punt langs bisector</translation>
+        <translation type="vanished">Punt langs bisector</translation>
     </message>
     <message>
         <source>Cut arc tool</source>
-        <translation>Knip een boog gereedschap</translation>
+        <translation type="vanished">Knip een boog gereedschap</translation>
     </message>
     <message>
         <source>Tool for segmenting a curve</source>
-        <translation>Gereedschap om een kromme in segmenten te delen</translation>
+        <translation type="vanished">Gereedschap om een kromme in segmenten te delen</translation>
     </message>
     <message>
         <source>Tool segment a pathed curve</source>
-        <translation>Gereedschap segmenteert het pad van een kromme</translation>
+        <translation type="vanished">Gereedschap segmenteert het pad van een kromme</translation>
     </message>
     <message>
         <source>Perpendicular point along line</source>
-        <translation>Haakse hoek punt langs lijn</translation>
+        <translation type="vanished">Haakse hoek punt langs lijn</translation>
     </message>
     <message>
         <source>Line between points</source>
-        <translation>Lijn tussen punten</translation>
+        <translation type="vanished">Lijn tussen punten</translation>
     </message>
     <message>
         <source>Point at line intersection</source>
-        <translation>Punt op lijnkruising</translation>
+        <translation type="vanished">Punt op lijnkruising</translation>
     </message>
     <message>
         <source>Point along perpendicular</source>
-        <translation>Punt langs haakse hoek</translation>
+        <translation type="vanished">Punt langs haakse hoek</translation>
     </message>
     <message>
         <source>Additional angle degrees</source>
@@ -16396,7 +17970,7 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Point at intersection of arc and line</source>
-        <translation>Kruispunt van boog en lijn</translation>
+        <translation type="vanished">Kruispunt van boog en lijn</translation>
     </message>
     <message>
         <source>Tool to make point from x &amp; y of two other points</source>
@@ -16404,11 +17978,11 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Special point on shoulder</source>
-        <translation>Speciaal punt op schouder</translation>
+        <translation type="vanished">Speciaal punt op schouder</translation>
     </message>
     <message>
         <source>Curve tool</source>
-        <translation>Krommegereedschap</translation>
+        <translation type="vanished">Krommegereedschap</translation>
     </message>
     <message>
         <source>Curve factor</source>
@@ -16416,15 +17990,15 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Tool for path curve</source>
-        <translation>Gereedschap voor krommepad</translation>
+        <translation type="vanished">Gereedschap voor krommepad</translation>
     </message>
     <message>
         <source>Tool triangle</source>
-        <translation>Driehoek gereedschap</translation>
+        <translation type="vanished">Driehoek gereedschap</translation>
     </message>
     <message>
         <source>Point intersection line and axis</source>
-        <translation>Kruispunt tussen lijn en as</translation>
+        <translation type="vanished">Kruispunt tussen lijn en as</translation>
     </message>
     <message>
         <source>Line color</source>
@@ -16436,7 +18010,7 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Point intersection curve and axis</source>
-        <translation>Kruispunt kromme en as</translation>
+        <translation type="vanished">Kruispunt kromme en as</translation>
     </message>
     <message>
         <source>First point</source>
@@ -16448,7 +18022,7 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Arc with given length</source>
-        <translation>Boog met gegeven lengte</translation>
+        <translation type="vanished">Boog met gegeven lengte</translation>
     </message>
     <message>
         <source>True darts</source>
@@ -16464,7 +18038,7 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Tool to make point from intersection two arcs</source>
-        <translation>Gereedschap om een punt te maken van een kruising van twee bogen</translation>
+        <translation type="vanished">Gereedschap om een punt te maken van een kruising van twee bogen</translation>
     </message>
     <message>
         <source>Take</source>
@@ -16472,7 +18046,7 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Tool to make point from intersection two circles</source>
-        <translation>Gereedschap om een punt te maken van een kruising van twee cirkels</translation>
+        <translation type="vanished">Gereedschap om een punt te maken van een kruising van twee cirkels</translation>
     </message>
     <message>
         <source>First circle radius</source>
@@ -16484,7 +18058,7 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Tool to make point from circle and tangent</source>
-        <translation>Gereedschap om een punt te maken van cirkel en raaklijn</translation>
+        <translation type="vanished">Gereedschap om een punt te maken van cirkel en raaklijn</translation>
     </message>
     <message>
         <source>Circle radius</source>
@@ -16492,7 +18066,7 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Tool to make point from arc and tangent</source>
-        <translation>Gereedschap om een punt te maken van boog en raaklijn</translation>
+        <translation type="vanished">Gereedschap om een punt te maken van boog en raaklijn</translation>
     </message>
     <message>
         <source>Highest point</source>
@@ -16512,7 +18086,7 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Tool to make point from intersection two curves</source>
-        <translation>Gereedschap om een punt te maken van een kruising van twee cirkels</translation>
+        <translation type="vanished">Gereedschap om een punt te maken van een kruising van twee cirkels</translation>
     </message>
     <message>
         <source>Vertical correction</source>
@@ -16544,11 +18118,11 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Cubic bezier curve</source>
-        <translation>Derdegraads bezier kromme</translation>
+        <translation type="vanished">Derdegraads bezier kromme</translation>
     </message>
     <message>
         <source>Tool cubic bezier curve</source>
-        <translation>Gereedschap derdegraads bezier kromme</translation>
+        <translation type="vanished">Gereedschap derdegraads bezier kromme</translation>
     </message>
     <message>
         <source>Tool rotation</source>
@@ -16584,15 +18158,15 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Elliptical arc</source>
-        <translation>Ellipsvormige boog</translation>
+        <translation type="vanished">Ellipsvormige boog</translation>
     </message>
     <message>
         <source>Point label:</source>
-        <translation>Punt label:</translation>
+        <translation type="vanished">Punt label:</translation>
     </message>
     <message>
         <source>Position:</source>
-        <translation>Positie:</translation>
+        <translation type="vanished">Positie:</translation>
     </message>
     <message>
         <source>Base point:</source>
@@ -16684,23 +18258,23 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>First line (first point):</source>
-        <translation>Eerste lijn (eerste punt):</translation>
+        <translation type="vanished">Eerste lijn (eerste punt):</translation>
     </message>
     <message>
         <source>First line (second point):</source>
-        <translation>Eerste lijn (tweede punt):</translation>
+        <translation type="vanished">Eerste lijn (tweede punt):</translation>
     </message>
     <message>
         <source>Second line (first point):</source>
-        <translation>Tweede lijn (eerste punt):</translation>
+        <translation type="vanished">Tweede lijn (eerste punt):</translation>
     </message>
     <message>
         <source>Second line (second point):</source>
-        <translation>Tweede lijn (tweede punt):</translation>
+        <translation type="vanished">Tweede lijn (tweede punt):</translation>
     </message>
     <message>
         <source>Additional angle degrees:</source>
-        <translation>Aanvullende graden hoek:</translation>
+        <translation type="vanished">Aanvullende graden hoek:</translation>
     </message>
     <message>
         <source>Center of arc:</source>
@@ -16708,11 +18282,11 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Top of the line:</source>
-        <translation>Bovenkant van de lijn:</translation>
+        <translation type="vanished">Bovenkant van de lijn:</translation>
     </message>
     <message>
         <source>End of the line:</source>
-        <translation>Einde van de lijn:</translation>
+        <translation type="vanished">Einde van de lijn:</translation>
     </message>
     <message>
         <source>X: vertical point:</source>
@@ -16736,19 +18310,19 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Center of the first circle:</source>
-        <translation>Midden van de eerste cirkel:</translation>
+        <translation type="vanished">Midden van de eerste cirkel:</translation>
     </message>
     <message>
         <source>Center of the second circle:</source>
-        <translation>Midden van de tweede cirkel:</translation>
+        <translation type="vanished">Midden van de tweede cirkel:</translation>
     </message>
     <message>
         <source>First circle radius:</source>
-        <translation>Eerste cirkel straal:</translation>
+        <translation type="vanished">Eerste cirkel straal:</translation>
     </message>
     <message>
         <source>Second circle radius:</source>
-        <translation>Tweede cirkel straal:</translation>
+        <translation type="vanished">Tweede cirkel straal:</translation>
     </message>
     <message>
         <source>First curve:</source>
@@ -16760,15 +18334,15 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Vertical correction:</source>
-        <translation>Verticale correctie:</translation>
+        <translation type="vanished">Verticale correctie:</translation>
     </message>
     <message>
         <source>Horizontal correction:</source>
-        <translation>Horizontale correctie:</translation>
+        <translation type="vanished">Horizontale correctie:</translation>
     </message>
     <message>
         <source>Center of the circle:</source>
-        <translation>Midden van de cirkel:</translation>
+        <translation type="vanished">Midden van de cirkel:</translation>
     </message>
     <message>
         <source>Tangent point:</source>
@@ -16800,11 +18374,11 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>First point of axis:</source>
-        <translation>Eerste punt van de as:</translation>
+        <translation type="vanished">Eerste punt van de as:</translation>
     </message>
     <message>
         <source>Second point of axis:</source>
-        <translation>Tweede punt van de as:</translation>
+        <translation type="vanished">Tweede punt van de as:</translation>
     </message>
     <message>
         <source>Axis point:</source>
@@ -16816,7 +18390,7 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Origin point:</source>
-        <translation type="vanished">Originele punt:</translation>
+        <translation>Originele punt:</translation>
     </message>
     <message>
         <source>Axis type:</source>
@@ -16844,11 +18418,11 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Point 1:</source>
-        <translation>Punt 1:</translation>
+        <translation type="vanished">Punt 1:</translation>
     </message>
     <message>
         <source>Point 2:</source>
-        <translation>Punt 2:</translation>
+        <translation type="vanished">Punt 2:</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -16864,7 +18438,7 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>Rotation origin point:</source>
-        <translation>Draaipunt:</translation>
+        <translation type="vanished">Draaipunt:</translation>
     </message>
     <message>
         <source>Mirror by Line</source>
@@ -16873,6 +18447,205 @@ Wil je deze veranderingen opslaan?</translation>
     <message>
         <source>Mirror by Axis</source>
         <translation>Spiegel over As</translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">Selectie</translation>
+    </message>
+    <message>
+        <source>Point name:</source>
+        <translation type="unfinished">Punt naam:</translation>
+    </message>
+    <message>
+        <source>Coordinates</source>
+        <translation type="unfinished">Coordinaten</translation>
+    </message>
+    <message>
+        <source>Point - Length and Angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <translation type="unfinished">Geometrie</translation>
+    </message>
+    <message>
+        <source>Attributes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lineweight:</source>
+        <translation type="unfinished">Lijnbreedte:</translation>
+    </message>
+    <message>
+        <source>Point - On Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc - Radius and Angles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc - Radius and Length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - On Bisector</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Second dart point:</source>
+        <translation type="unfinished">Tweede figuurnaad punt:</translation>
+    </message>
+    <message>
+        <source>Third dart point:</source>
+        <translation type="unfinished">Derde figuurnaad punt:</translation>
+    </message>
+    <message>
+        <source>Point - On Arc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - On Curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - On Spline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Line and Perpendicular</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished">Lijn</translation>
+    </message>
+    <message>
+        <source>Point - Intersect Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First line</source>
+        <translation type="unfinished">Eerste lijn</translation>
+    </message>
+    <message>
+        <source>Second line</source>
+        <translation type="unfinished">Tweede lijn</translation>
+    </message>
+    <message>
+        <source>Point - On Perpendicular</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotation:</source>
+        <translation type="unfinished">Draaiing:</translation>
+    </message>
+    <message>
+        <source>Point - Intersect Arc and Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1st line point:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2nd line point:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Arcs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Circles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First circle:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center:</source>
+        <translation type="unfinished">Middelpunt:</translation>
+    </message>
+    <message>
+        <source>Second circle:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Curves</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical take:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal take:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Circle and Tangent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Arc and Tangent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Length to Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve - Interactive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve - Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spline - Interactive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spline - Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Axis and Triangle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1st axis point:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2nd axis point:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Line and Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point - Intersect Curve and Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arc - Elliptical</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>VToolPointFromArcAndTangent</name>
+    <message>
+        <source>&lt;b&gt;&lt;big&gt;Can&apos;t find intersection point %1 of&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;big&gt;%2 and Tangent&lt;/big&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersect Arc and Tangent</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16888,6 +18661,28 @@ Wil je deze veranderingen opslaan?</translation>
     <message>
         <source>Name</source>
         <translation>Naam</translation>
+    </message>
+</context>
+<context>
+    <name>VToolPointOfIntersectionArcs</name>
+    <message>
+        <source>&lt;b&gt;&lt;big&gt;Can&apos;t find intersection point %1 of Arcs&lt;/big&gt;&lt;/b&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point Intersect Arcs</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>VToolPointOfIntersectionCurves</name>
+    <message>
+        <source>&lt;b&gt;&lt;big&gt;Can&apos;t find intersection point %1 of Curves&lt;/big&gt;&lt;/b&gt;&lt;br&gt;Using origin point as a place holder until pattern is corrected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Point Intersect Curves</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18523,7 +20318,11 @@ Wil je deze veranderingen opslaan?</translation>
     </message>
     <message>
         <source>&lt;b&gt;Point at distance and angle&lt;/b&gt;: angle = %1°, length = %2%3; Hold &lt;b&gt;SHIFT&lt;/b&gt; to constrain angle, Press &lt;b&gt;ENTER&lt;/b&gt; to finish tool creation</source>
-        <translation>&lt;b&gt;Punt op afstand en hoek&lt;/b&gt;: hoek = %1 , lengte = %2%3, &lt;b&gt;Shift&lt;/b&gt; - steekhoek, &lt;b&gt;Enter&lt;/b&gt; - voltooi creatie</translation>
+        <translation type="vanished">&lt;b&gt;Punt op afstand en hoek&lt;/b&gt;: hoek = %1 , lengte = %2%3, &lt;b&gt;Shift&lt;/b&gt; - steekhoek, &lt;b&gt;Enter&lt;/b&gt; - voltooi creatie</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Point Length and Angle&lt;/b&gt;: angle = %1°, length = %2%3; Hold &lt;b&gt;SHIFT&lt;/b&gt; to constrain angle, Press &lt;b&gt;ENTER&lt;/b&gt; to finish tool creation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

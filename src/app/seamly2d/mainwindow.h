@@ -70,7 +70,7 @@ class QFileSystemWatcher;
 class QLabel;
 class DialogVariables;
 class DialogTool;
-class DialogHistory;
+class HistoryDialog;
 class CalculatorDialog;
 class DecimalChartDialog;
 class ShowInfoDialog;
@@ -84,6 +84,7 @@ class QToolButton;
 class QDoubleSpinBox;
 class QFontComboBox;
 class MouseCoordinates;
+class PenToolBar;
 
 /**
  * @brief The MainWindow class main windows.
@@ -99,6 +100,7 @@ public:
 
 public slots:
     void ProcessCMD();
+    void penChanged(Pen pen);
 
     virtual void ShowToolTip(const QString &toolTip) Q_DECL_OVERRIDE;
     virtual void zoomToSelected() Q_DECL_OVERRIDE;
@@ -289,7 +291,7 @@ private:
 
     QPointer<DialogVariables>         dialogTable;
     QSharedPointer<DialogTool>        dialogTool;
-    QPointer<DialogHistory>           dialogHistory;
+    QPointer<HistoryDialog>           historyDialog;
 
     QFontComboBox                    *fontComboBox;
     QComboBox                        *fontSizeComboBox;
@@ -318,12 +320,13 @@ private:
     QPointer<QLabel>                  gradationSizesLabel;
     VToolOptionsPropertyBrowser      *toolProperties;
     VWidgetGroups                    *groupsWidget;
-    PiecesWidget                   *patternPiecesWidget;
+    PiecesWidget                     *patternPiecesWidget;
     std::shared_ptr<VLockGuard<char>> lock;
 
     QDoubleSpinBox                   *zoomScaleSpinBox;
-    /** @brief zoomToPointComboBox pointer to combobox that allows to focus on a point in draft mode. */
-    QComboBox                        *zoomToPointComboBox;
+    PenToolBar                       *m_penToolBar; //!< for selecting the current pen
+    PenToolBar                       *m_penReset;
+    QComboBox                        *m_zoomToPointComboBox;
 
     void                              SetDefaultHeight();
     void                              SetDefaultSize();
@@ -334,6 +337,7 @@ private:
     void                              initPointNameToolBar();
     void                              initToolsToolBar();
     void                              initToolBarVisibility();
+    void                              initPenToolBar();
     void                              updateToolBarVisibility();
     void                              setToolBarVisibility(QToolBar *toolbar, bool visible);
     void                              InitToolButtons();
