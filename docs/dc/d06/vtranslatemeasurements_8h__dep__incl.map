@@ -1,15 +1,15 @@
 <map id="src/libs/vpatterndb/vtranslatemeasurements.h" name="src/libs/vpatterndb/vtranslatemeasurements.h">
-<area shape="rect" id="node1" title=" " alt="" coords="8204,5,8407,47"/>
-<area shape="rect" id="node2" href="$dd/de9/measurements__def_8cpp.html" title=" " alt="" coords="7801,95,7980,136"/>
-<area shape="rect" id="node3" href="$da/d69/vtranslatevars_8h.html" title=" " alt="" coords="8005,95,8147,136"/>
+<area shape="rect" id="node1" title=" " alt="" coords="8205,5,8408,47"/>
+<area shape="rect" id="node2" href="$dd/de9/measurements__def_8cpp.html" title=" " alt="" coords="7809,95,7988,136"/>
+<area shape="rect" id="node3" href="$da/d69/vtranslatevars_8h.html" title=" " alt="" coords="8013,95,8155,136"/>
 <area shape="rect" id="node25" href="$de/d3e/vtranslatevars_8cpp.html" title=" " alt="" coords="8387,377,8533,419"/>
 <area shape="rect" id="node50" href="$d0/d50/vtranslatemeasurements_8cpp.html" title=" " alt="" coords="8463,95,8681,136"/>
 <area shape="rect" id="node4" href="$d5/d74/vabstractapplication_8h.html" title=" " alt="" coords="4837,288,5097,315"/>
-<area shape="rect" id="node20" href="$db/d11/vformula_8cpp.html" title=" " alt="" coords="8053,377,8195,419"/>
-<area shape="rect" id="node21" href="$d6/d46/vcontainer_8cpp.html" title=" " alt="" coords="8219,377,8362,419"/>
+<area shape="rect" id="node20" href="$d6/d46/vcontainer_8cpp.html" title=" " alt="" coords="8053,377,8195,419"/>
+<area shape="rect" id="node21" href="$db/d11/vformula_8cpp.html" title=" " alt="" coords="8219,377,8362,419"/>
 <area shape="rect" id="node41" href="$d3/df7/vcontainer_8h.html" title=" " alt="" coords="898,184,1041,225"/>
-<area shape="rect" id="node47" href="$df/de5/dialogspline_8cpp.html" title=" " alt="" coords="7675,184,7843,225"/>
-<area shape="rect" id="node48" href="$dc/dc2/dialogsplinepath_8cpp.html" title=" " alt="" coords="7867,184,8064,225"/>
+<area shape="rect" id="node47" href="$dc/dc2/dialogsplinepath_8cpp.html" title=" " alt="" coords="7675,184,7872,225"/>
+<area shape="rect" id="node48" href="$df/de5/dialogspline_8cpp.html" title=" " alt="" coords="7896,184,8064,225"/>
 <area shape="rect" id="node49" href="$d1/d75/vistoolendline_8cpp.html" title=" " alt="" coords="8089,184,8287,225"/>
 <area shape="rect" id="node5" href="$d4/d90/fvupdater_8cpp.html" title=" " alt="" coords="6275,385,6479,411"/>
 <area shape="rect" id="node6" href="$d9/dc8/dxiface_8cpp.html" title=" " alt="" coords="6503,385,6683,411"/>
@@ -29,8 +29,8 @@
 <area shape="rect" id="node22" href="$df/d7a/vpiece_8cpp.html" title=" " alt="" coords="747,377,890,419"/>
 <area shape="rect" id="node23" href="$df/dba/vpiecenode__p_8h.html" title=" " alt="" coords="1442,377,1585,419"/>
 <area shape="rect" id="node26" href="$df/d40/export__format__combobox_8cpp.html" title=" " alt="" coords="2269,377,2446,419"/>
-<area shape="rect" id="node27" href="$d2/d28/page__format__combobox_8cpp.html" title=" " alt="" coords="2470,377,2645,419"/>
-<area shape="rect" id="node28" href="$d3/d4f/mouse__coordinates_8cpp.html" title=" " alt="" coords="2669,377,2848,419"/>
+<area shape="rect" id="node27" href="$d3/d4f/mouse__coordinates_8cpp.html" title=" " alt="" coords="2471,377,2649,419"/>
+<area shape="rect" id="node28" href="$d2/d28/page__format__combobox_8cpp.html" title=" " alt="" coords="2674,377,2849,419"/>
 <area shape="rect" id="node29" href="$d7/d1b/pen__toolbar_8cpp.html" title=" " alt="" coords="2873,377,3031,419"/>
 <area shape="rect" id="node30" href="$d8/d76/scene__rect_8cpp.html" title=" " alt="" coords="3056,377,3229,419"/>
 <area shape="rect" id="node31" href="$dd/df6/vabstractmainwindow_8cpp.html" title=" " alt="" coords="3254,385,3559,411"/>
@@ -39,10 +39,10 @@
 <area shape="rect" id="node34" href="$de/dec/vgraphicssimpletextitem_8cpp.html" title=" " alt="" coords="4176,385,4501,411"/>
 <area shape="rect" id="node35" href="$d1/d88/vmaingraphicsscene_8cpp.html" title=" " alt="" coords="4525,385,4821,411"/>
 <area shape="rect" id="node36" href="$d0/d5d/vscenepoint_8cpp.html" title=" " alt="" coords="4846,385,5087,411"/>
-<area shape="rect" id="node37" href="$de/d22/vsimplecurve_8cpp.html" title=" " alt="" coords="5112,385,5363,411"/>
-<area shape="rect" id="node38" href="$d2/d31/vmaingraphicsview_8cpp.html" title=" " alt="" coords="5387,385,5675,411"/>
-<area shape="rect" id="node39" href="$df/d38/vsimplepoint_8cpp.html" title=" " alt="" coords="5699,385,5946,411"/>
-<area shape="rect" id="node40" href="$df/df5/vtextgraphicsitem_8cpp.html" title=" " alt="" coords="5970,385,6251,411"/>
+<area shape="rect" id="node37" href="$d2/d31/vmaingraphicsview_8cpp.html" title=" " alt="" coords="5112,385,5400,411"/>
+<area shape="rect" id="node38" href="$de/d22/vsimplecurve_8cpp.html" title=" " alt="" coords="5424,385,5675,411"/>
+<area shape="rect" id="node39" href="$df/df5/vtextgraphicsitem_8cpp.html" title=" " alt="" coords="5699,385,5981,411"/>
+<area shape="rect" id="node40" href="$df/d38/vsimplepoint_8cpp.html" title=" " alt="" coords="6005,385,6251,411"/>
 <area shape="rect" id="node24" href="$d8/dba/vpiecenode_8cpp.html" title=" " alt="" coords="1041,467,1183,508"/>
 <area shape="rect" id="node42" href="$dc/db7/measurements_8h.html" title=" " alt="" coords="426,288,665,315"/>
 <area shape="rect" id="node43" href="$d9/de3/measurements_8cpp.html" title=" " alt="" coords="419,385,672,411"/>
